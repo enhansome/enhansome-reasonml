@@ -1,0 +1,958 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Reason"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "create-melange-app",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-03-12T19:01:31Z",
+            "owner": "melange-community",
+            "repo": "create-melange-app",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Melange Project template with opam",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2024-11-14T17:12:06Z",
+            "owner": "melange-re",
+            "repo": "melange-opam-template",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Melange Project template with esy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2024-01-21T01:20:46Z",
+            "owner": "melange-re",
+            "repo": "melange-esy-template",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reason Starter kit for Advent of Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-06T10:05:36Z",
+            "owner": "ManasJayanth",
+            "repo": "reason-aoc-starter",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Starter Kits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "reason-tools",
+          "description": "Chrome/Firefox Reason extension",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2018-06-03T20:16:36Z",
+            "owner": "reasonml",
+            "repo": "reason-tools",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "type-o-rama",
+          "description": "JS type systems interportability",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-14T10:32:09Z",
+            "owner": "stereobooster",
+            "repo": "type-o-rama",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RED",
+          "description": "Native Reason/OCaml debugger",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-20T17:05:55Z",
+            "owner": "reasonml",
+            "repo": "red",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vite plugin",
+          "description": "A Vite plugin for Melange",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-21T12:42:10Z",
+            "owner": "pdelacroix",
+            "repo": "vite-plugin-melange",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tablecloth",
+          "description": "An ergonomic, cross-platform, standard library for ReasonML and OCaml",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-20T19:24:40Z",
+            "owner": "darklang",
+            "repo": "tablecloth",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rationale",
+          "description": "Ramda inspired library of helper functions for ReasonML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2023-01-03T18:23:11Z",
+            "owner": "jonlaing",
+            "repo": "rationale",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "relude",
+          "description": "FP-inspired prelude/standard library for ReasonML projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2026-01-21T23:45:28Z",
+            "owner": "reazen",
+            "repo": "relude",
+            "stars": 269
+          }
+        }
+      ],
+      "title": "Standard Libs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "reason-react",
+          "description": "React.js bindings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2026-06-15T18:44:06Z",
+            "owner": "reasonml",
+            "repo": "reason-react",
+            "stars": 3266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-ppx",
+          "description": "Type-safe styled components for ReScript, Melange and native with type-safe CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-07-22T21:58:05Z",
+            "owner": "davesnx",
+            "repo": "styled-ppx",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "promise",
+          "description": "Light and type-safe binding to JS promises",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2023-10-04T14:07:58Z",
+            "owner": "aantron",
+            "repo": "promise",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "melange-fetch",
+          "description": "Fetch bindings for Melange",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-06-28T04:58:22Z",
+            "owner": "melange-community",
+            "repo": "melange-fetch",
+            "stars": 208
+          }
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "atd",
+          "description": "Static types for JSON APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-08-05T05:53:10Z",
+            "owner": "ahrefs",
+            "repo": "atd",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bs-decode",
+          "description": "Type-safe JSON decoding for ReasonML and OCaml (documentation site)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2024-01-22T20:34:06Z",
+            "owner": "mlms13",
+            "repo": "bs-decode",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocaml-decoders",
+          "description": "Elm-inspired decoders for Ocaml",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-01-21T23:38:42Z",
+            "owner": "mattjbray",
+            "repo": "ocaml-decoders",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "melange-json",
+          "description": "Compositional JSON encode/decode library for Melange",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-08-10T17:27:48Z",
+            "owner": "melange-community",
+            "repo": "jsonkit",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "JSON encoding and decoding"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dream",
+          "description": "Tidy, feature-complete Web framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-05-23T18:26:29Z",
+            "owner": "camlworks",
+            "repo": "dream",
+            "stars": 1872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "server-reason-react",
+          "description": "Server render Reason React components with OCaml natively",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-08-07T15:27:19Z",
+            "owner": "ml-in-barcelona",
+            "repo": "server-reason-react",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "html_of_jsx",
+          "description": "Render HTML with JSX",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-08-06T11:01:52Z",
+            "owner": "davesnx",
+            "repo": "html_of_jsx",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Server"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "graphql_ppx",
+          "description": "GraphQL PPX rewriter for Bucklescript/ReasonML written in ReasonML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-02-10T15:15:40Z",
+            "owner": "teamwalnut",
+            "repo": "graphql-ppx",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reasonql",
+          "description": "Type-safe and simple GraphQL client for ReasonML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-22T10:47:49Z",
+            "owner": "sainthkh",
+            "repo": "reasonql",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "melange-relay",
+          "description": "Use Relay with ReasonML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-01-28T07:08:55Z",
+            "owner": "anmonteiro",
+            "repo": "melange-relay",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "GraphQL"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "melange-fest",
+          "description": "A minimal test framework for Melange using Node test runner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-08-10T01:39:06Z",
+            "owner": "ahrefs",
+            "repo": "melange-fest",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "melange-testing-library",
+          "description": "Melange bindings for testing-library (dom-testing-library and react-testing-library)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2026-06-28T04:59:55Z",
+            "owner": "melange-community",
+            "repo": "melange-testing-library",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "melange-jest",
+          "description": "Melange bindings for Jest",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-06-28T04:52:30Z",
+            "owner": "melange-community",
+            "repo": "melange-jest",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "See the official guide here",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ocaml-lsp",
+          "description": "OCaml Language Server Protocol implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-08-12T08:45:40Z",
+            "owner": "ocaml",
+            "repo": "ocaml-lsp",
+            "stars": 910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vscode-ocaml-platform",
+          "description": "Visual Studio Code extension for ReasonML and OCaml",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-08-11T16:35:20Z",
+            "owner": "ocamllabs",
+            "repo": "vscode-ocaml-platform",
+            "stars": 385
+          }
+        }
+      ],
+      "title": "Editor Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ReasonReact example",
+          "description": "ReasonReact examples",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-07-16T00:47:09Z",
+            "owner": "reasonml-old",
+            "repo": "reason-react-example",
+            "stars": 643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReasonReact Hacker News",
+          "description": "Hacker News written in Reason",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2023-01-07T04:04:54Z",
+            "owner": "reasonml-community",
+            "repo": "reason-react-hacker-news",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gravitron",
+          "description": "A game about gravity on iOS/Android/Browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2023-10-20T08:20:25Z",
+            "owner": "jaredly",
+            "repo": "gravitron",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReLayout",
+          "description": "Standalone CSS Flexbox Implementation in Reason",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2024-03-12T12:13:27Z",
+            "owner": "jordwalke",
+            "repo": "flex",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mareo",
+          "description": "Online Mario game demo drawn on canvas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-17T06:06:15Z",
+            "owner": "reasonml-community",
+            "repo": "Mareo",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReasonML RealWorld example app #2",
+          "description": "Another Medium.com clone written using ReasonReact",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ReScript",
+            "last_commit": "2026-04-25T09:05:05Z",
+            "owner": "jihchi",
+            "repo": "rescript-react-realworld-example-app",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coronate",
+          "description": "A Swiss-style chess tournament manager for the web and desktop, written with ReasonReact. (web demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ReScript",
+            "last_commit": "2026-07-25T22:13:19Z",
+            "owner": "johnridesabike",
+            "repo": "coronate",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "99.re",
+          "description": "Solutions to 99 problems implemented in Reason",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2017-11-24T14:27:31Z",
+            "owner": "shrynx",
+            "repo": "99.re",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReasonML RealWorld example app",
+          "description": "Medium.com clone written using ReasonReact",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2021-09-06T19:35:41Z",
+            "owner": "gothinkster",
+            "repo": "reasonml-realworld-example-app",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "re:bench",
+          "description": "Benchmarking playground built with ReasonReact. A real app in real use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-11T20:41:32Z",
+            "owner": "rebench",
+            "repo": "rebench.github.io",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reason Maze",
+          "description": "Amazing online maze generation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2017-11-22T20:45:36Z",
+            "owner": "jaredly",
+            "repo": "reason-maze",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A* pathfinder maze",
+          "description": "A* search algorithm written in ReasonML (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2018-06-09T09:03:37Z",
+            "owner": "puemos",
+            "repo": "reasonml-astar-maze",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reason Catstagram",
+          "description": "A Catstagram built with Reason and React hooks!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2019-12-11T07:27:26Z",
+            "owner": "kutyel",
+            "repo": "reason-catstagram",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reason-chess",
+          "description": "Chess engine for multiple platforms and web example chess game. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2018-03-30T13:55:49Z",
+            "owner": "venil7",
+            "repo": "reason-chess",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pomodoro",
+          "description": "A pomodoro webapp written in ReasonReact, using webpack, and fully tested with bs-react-testing-library and reason-hooks-testing-library. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ReScript",
+            "last_commit": "2021-05-15T18:21:28Z",
+            "owner": "tkovs",
+            "repo": "pomodoro",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Red",
+          "description": "Simple to use pomodoro webapp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2017-11-12T13:56:19Z",
+            "owner": "excitement-engineer",
+            "repo": "Red",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Si",
+          "description": "A 3D connect four game",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2021-07-05T17:13:51Z",
+            "owner": "scottcheng",
+            "repo": "si-reason",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2048 Reasons",
+          "description": "A functional implementation of the viral 2048 game in Reason using ReasonReact. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ReScript",
+            "last_commit": "2026-07-26T11:38:44Z",
+            "owner": "alanrsoares",
+            "repo": "2048-reasons",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dokusho",
+          "description": "CRUD example with authentication, react toolbox, and CI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2023-05-08T22:23:43Z",
+            "owner": "RawToast",
+            "repo": "dokusho",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reason Reversi Game",
+          "description": "Reversi Game in ReasonReact",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "OCaml",
+            "last_commit": "2019-04-17T16:17:35Z",
+            "owner": "marmelab",
+            "repo": "reversi-reason",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bouken",
+          "description": "ASCII rogue written using ReasonReact. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2025-11-20T03:13:28Z",
+            "owner": "RawToast",
+            "repo": "bouken",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repos",
+          "description": "Fetches Github repos by username",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-11-28T23:11:47Z",
+            "owner": "rvcas",
+            "repo": "repos",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simon Game",
+          "description": "The handheld Simon game written in ReasonReact",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2022-12-08T23:49:15Z",
+            "owner": "arecvlohe",
+            "repo": "reason-react-simon-game",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reason Game of Life",
+          "description": "Conway's Game of Life written in Reason using ReasonReact. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2018-11-28T21:32:38Z",
+            "owner": "alanrsoares",
+            "repo": "reasonml-game-of-life",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TicTacToe ReasonML engine",
+          "description": "Minimax Tic-Tac-Toe implementation in ReasonML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2018-02-22T17:50:39Z",
+            "owner": "venil7",
+            "repo": "ReasonML-TicTacToe",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "We Write",
+          "description": "the App utilizes Github API as the backend, so non-tech writers could collaborate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-12-10T21:08:34Z",
+            "owner": "leomayleomay",
+            "repo": "we-write-app",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reatris: ReasonReact tetris",
+          "description": "Classic tetris game written on ReasonReact (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2023-01-06T01:35:21Z",
+            "owner": "denis-ok",
+            "repo": "reasonml-reatris",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReasonSplash",
+          "description": "Unsplash mobile client in Reason",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "OCaml",
+            "last_commit": "2018-03-14T14:23:30Z",
+            "owner": "smartlogic",
+            "repo": "reasonsplash",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Calculator",
+          "description": "It's another calculator written on ReasonReact (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "OCaml",
+            "last_commit": "2022-02-26T14:30:56Z",
+            "owner": "jimmyhuco",
+            "repo": "simple-calculator",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Re-Memory",
+          "description": "Memory game in ReasonReact",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-03T13:32:10Z",
+            "owner": "dtasic",
+            "repo": "re-memory",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Another memory cards game",
+          "description": "Memory cards game with GIFs (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2022-12-07T19:13:23Z",
+            "owner": "liubko",
+            "repo": "reason-memory-gifs",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snake",
+          "description": "Snake game in ReasonReact (demo)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "ReasonML CRUD example",
+          "description": "RealWorld CRUD entity example",
+          "children": []
+        }
+      ],
+      "title": "Example Apps"
+    },
+    {
+      "description": "Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)",
+      "items": [],
+      "title": "Contribution"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:24:28.197Z",
+    "original_repository": "vramana/awesome-reasonml",
+    "original_repository_sha": "84fd8ce497e9a03e69b89df7f4df2661000280ed",
+    "enhanced_repository": "enhansome/enhansome-reasonml",
+    "enhanced_repository_description": null,
+    "title": "Awesome reasonml with stars"
+  }
+}
