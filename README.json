@@ -475,7 +475,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-11T16:35:20Z",
+            "last_commit": "2026-08-13T15:29:35Z",
             "owner": "ocamllabs",
             "repo": "vscode-ocaml-platform",
             "stars": 385
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:24:28.197Z",
+    "last_updated": "2026-08-14T00:44:53.068Z",
     "original_repository": "vramana/awesome-reasonml",
     "original_repository_sha": "84fd8ce497e9a03e69b89df7f4df2661000280ed",
     "enhanced_repository": "enhansome/enhansome-reasonml",

@@ -1,8 +1,8 @@
 # Awesome reasonml with stars
 
-### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,060 | 🐛 100 | 📅 2026-06-30
+### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,395 | 🐛 99 | 📅 2026-06-30
 
-A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,060 | 🐛 100 | 📅 2026-06-30 list thing. Feel free to improve this list.
+A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,395 | 🐛 99 | 📅 2026-06-30 list thing. Feel free to improve this list.
 
 * [Reason](#reason)
   * [General Resources](#general-resources)
@@ -29,7 +29,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 * [Documentation](https://reasonml.org/)
 * [Homepage](https://reasonml.github.io/)
 * [Blog](https://reasonml.github.io/blog/)
-* [Reason Github](https://github.com/facebook/reason) ⭐ 10,323 | 🐛 190 | 🌐 OCaml | 📅 2026-08-13
+* [Reason Github](https://github.com/facebook/reason) ⭐ 10,324 | 🐛 190 | 🌐 OCaml | 📅 2026-08-13
 * [Reason Twitter](https://twitter.com/reasonml)
 * [Discord Community](https://discord.gg/reasonml)
 
@@ -145,7 +145,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 
 * [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 910 | 🐛 152 | 🌐 OCaml | 📅 2026-08-12 - OCaml Language Server Protocol implementation
-* [vscode-ocaml-platform](https://github.com/ocamllabs/vscode-ocaml-platform) ⭐ 385 | 🐛 61 | 🌐 OCaml | 📅 2026-08-11 - Visual Studio Code extension for ReasonML and OCaml
+* [vscode-ocaml-platform](https://github.com/ocamllabs/vscode-ocaml-platform) ⭐ 385 | 🐛 61 | 🌐 OCaml | 📅 2026-08-13 - Visual Studio Code extension for ReasonML and OCaml
 
 ***
 
@@ -199,4 +199,4 @@ Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
