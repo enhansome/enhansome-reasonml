@@ -297,7 +297,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-10T17:27:48Z",
+            "last_commit": "2026-08-14T18:06:48Z",
             "owner": "melange-community",
             "repo": "jsonkit",
             "stars": 25
@@ -461,7 +461,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-12T08:45:40Z",
+            "last_commit": "2026-08-14T08:27:51Z",
             "owner": "ocaml",
             "repo": "ocaml-lsp",
             "stars": 910
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:44:53.068Z",
+    "last_updated": "2026-08-15T00:02:38.697Z",
     "original_repository": "vramana/awesome-reasonml",
     "original_repository_sha": "84fd8ce497e9a03e69b89df7f4df2661000280ed",
     "enhanced_repository": "enhansome/enhansome-reasonml",
