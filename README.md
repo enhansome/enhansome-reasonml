@@ -1,8 +1,8 @@
 # Awesome reasonml with stars
 
-### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,788 | 🐛 100 | 📅 2026-06-30
+### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,142 | 🐛 100 | 📅 2026-06-30
 
-A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,788 | 🐛 100 | 📅 2026-06-30 list thing. Feel free to improve this list.
+A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,142 | 🐛 100 | 📅 2026-06-30 list thing. Feel free to improve this list.
 
 * [Reason](#reason)
   * [General Resources](#general-resources)
@@ -124,7 +124,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 #### Server
 
-* [Dream](https://github.com/aantron/dream) ⭐ 1,872 | 🐛 109 | 🌐 OCaml | 📅 2026-05-23 - Tidy, feature-complete Web framework
+* [Dream](https://github.com/aantron/dream) ⭐ 1,874 | 🐛 109 | 🌐 OCaml | 📅 2026-05-23 - Tidy, feature-complete Web framework
 * [server-reason-react](https://github.com/ml-in-barcelona/server-reason-react) ⭐ 174 | 🐛 6 | 🌐 OCaml | 📅 2026-08-07 - Server render Reason React components with OCaml natively
 * [html\_of\_jsx](https://github.com/davesnx/html_of_jsx) ⭐ 53 | 🐛 0 | 🌐 OCaml | 📅 2026-08-06 - Render HTML with JSX
 
@@ -144,7 +144,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 
-* [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 910 | 🐛 153 | 🌐 OCaml | 📅 2026-08-14 - OCaml Language Server Protocol implementation
+* [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 909 | 🐛 149 | 🌐 OCaml | 📅 2026-08-15 - OCaml Language Server Protocol implementation
 * [vscode-ocaml-platform](https://github.com/ocamllabs/vscode-ocaml-platform) ⭐ 385 | 🐛 61 | 🌐 OCaml | 📅 2026-08-13 - Visual Studio Code extension for ReasonML and OCaml
 
 ***
@@ -199,4 +199,4 @@ Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

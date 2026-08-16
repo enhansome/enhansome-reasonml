@@ -320,7 +320,7 @@
             "last_commit": "2026-05-23T18:26:29Z",
             "owner": "camlworks",
             "repo": "dream",
-            "stars": 1872
+            "stars": 1874
           }
         },
         {
@@ -461,10 +461,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-14T08:27:51Z",
+            "last_commit": "2026-08-15T22:11:03Z",
             "owner": "ocaml",
             "repo": "ocaml-lsp",
-            "stars": 910
+            "stars": 909
           }
         },
         {
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T00:02:38.697Z",
+    "last_updated": "2026-08-16T00:00:12.448Z",
     "original_repository": "vramana/awesome-reasonml",
     "original_repository_sha": "84fd8ce497e9a03e69b89df7f4df2661000280ed",
     "enhanced_repository": "enhansome/enhansome-reasonml",
