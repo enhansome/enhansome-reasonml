@@ -461,7 +461,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-15T22:11:03Z",
+            "last_commit": "2026-08-16T23:25:50Z",
             "owner": "ocaml",
             "repo": "ocaml-lsp",
             "stars": 909
@@ -475,7 +475,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-13T15:29:35Z",
+            "last_commit": "2026-08-16T13:43:36Z",
             "owner": "ocamllabs",
             "repo": "vscode-ocaml-platform",
             "stars": 385
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T00:00:12.448Z",
+    "last_updated": "2026-08-17T00:00:11.792Z",
     "original_repository": "vramana/awesome-reasonml",
     "original_repository_sha": "84fd8ce497e9a03e69b89df7f4df2661000280ed",
     "enhanced_repository": "enhansome/enhansome-reasonml",
