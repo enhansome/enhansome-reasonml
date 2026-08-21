@@ -1,8 +1,8 @@
 # Awesome reasonml with stars
 
-### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,822 | 🐛 102 | 📅 2026-08-18
+### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,231 | 🐛 105 | 📅 2026-08-18
 
-A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,822 | 🐛 102 | 📅 2026-08-18 list thing. Feel free to improve this list.
+A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,231 | 🐛 105 | 📅 2026-08-18 list thing. Feel free to improve this list.
 
 * [Reason](#reason)
   * [General Resources](#general-resources)
@@ -29,7 +29,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 * [Documentation](https://reasonml.org/)
 * [Homepage](https://reasonml.github.io/)
 * [Blog](https://reasonml.github.io/blog/)
-* [Reason Github](https://github.com/facebook/reason) ⭐ 10,325 | 🐛 190 | 🌐 OCaml | 📅 2026-08-13
+* [Reason Github](https://github.com/facebook/reason) ⭐ 10,324 | 🐛 190 | 🌐 OCaml | 📅 2026-08-13
 * [Reason Twitter](https://twitter.com/reasonml)
 * [Discord Community](https://discord.gg/reasonml)
 
@@ -104,33 +104,33 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 * [tablecloth](https://github.com/darklang/tablecloth) ⭐ 518 | 🐛 38 | 🌐 JavaScript | 📅 2023-04-20 - An ergonomic, cross-platform, standard library for ReasonML and OCaml
 * [Rationale](https://github.com/jonlaing/rationale) ⭐ 275 | 🐛 12 | 🌐 OCaml | 📅 2023-01-03 - Ramda inspired library of helper functions for ReasonML
-* [relude](https://github.com/reazen/relude) ⭐ 269 | 🐛 43 | 🌐 Reason | 📅 2026-01-21 - FP-inspired prelude/standard library for ReasonML projects.
+* [relude](https://github.com/reazen/relude) ⭐ 267 | 🐛 43 | 🌐 Reason | 📅 2026-01-21 - FP-inspired prelude/standard library for ReasonML projects.
 * [Belt](https://melange.re/v4.0.0/api/re/melange/Belt/) - A stdlib shipped with Melange.
 * [Js](https://melange.re/v4.0.0/api/re/melange/Js/) - Bindings to several browser and Node JavaScript APIs
 
 #### Web
 
-* [reason-react](https://github.com/reasonml/reason-react) ⭐ 3,265 | 🐛 34 | 🌐 Reason | 📅 2026-06-15 - React.js bindings
+* [reason-react](https://github.com/reasonml/reason-react) ⭐ 3,264 | 🐛 34 | 🌐 Reason | 📅 2026-06-15 - React.js bindings
 * [styled-ppx](https://github.com/davesnx/styled-ppx) ⭐ 413 | 🐛 31 | 🌐 OCaml | 📅 2026-07-22 - Type-safe styled components for ReScript, Melange and native with type-safe CSS
 * [promise](https://github.com/aantron/promise) ⭐ 340 | 🐛 16 | 🌐 Reason | 📅 2023-10-04 - Light and type-safe binding to JS promises
 * [melange-fetch](https://github.com/melange-community/melange-fetch) ⭐ 208 | 🐛 3 | 🌐 OCaml | 📅 2026-06-28 - Fetch bindings for Melange
 
 #### JSON encoding and decoding
 
-* [atd](https://github.com/ahrefs/atd) ⭐ 353 | 🐛 88 | 🌐 OCaml | 📅 2026-08-05 - Static types for JSON APIs
+* [atd](https://github.com/ahrefs/atd) ⭐ 352 | 🐛 88 | 🌐 OCaml | 📅 2026-08-05 - Static types for JSON APIs
 * [bs-decode](https://github.com/mlms13/bs-decode) ⭐ 103 | 🐛 15 | 🌐 Reason | 📅 2024-01-22 - Type-safe JSON decoding for ReasonML and OCaml ([documentation site](https://mlms13.github.io/bs-decode/docs/what-and-why))
 * [ocaml-decoders](https://github.com/mattjbray/ocaml-decoders) ⭐ 85 | 🐛 9 | 🌐 OCaml | 📅 2026-01-21 - Elm-inspired decoders for Ocaml
-* [melange-json](https://github.com/melange-community/melange-json) ⭐ 25 | 🐛 20 | 🌐 OCaml | 📅 2026-08-14 - Compositional JSON encode/decode library for Melange
+* [melange-json](https://github.com/melange-community/melange-json) ⭐ 24 | 🐛 20 | 🌐 OCaml | 📅 2026-08-14 - Compositional JSON encode/decode library for Melange
 
 #### Server
 
 * [Dream](https://github.com/aantron/dream) ⭐ 1,875 | 🐛 109 | 🌐 OCaml | 📅 2026-05-23 - Tidy, feature-complete Web framework
-* [server-reason-react](https://github.com/ml-in-barcelona/server-reason-react) ⭐ 175 | 🐛 6 | 🌐 OCaml | 📅 2026-08-19 - Server render Reason React components with OCaml natively
-* [html\_of\_jsx](https://github.com/davesnx/html_of_jsx) ⭐ 53 | 🐛 0 | 🌐 OCaml | 📅 2026-08-17 - Render HTML with JSX
+* [server-reason-react](https://github.com/ml-in-barcelona/server-reason-react) ⭐ 175 | 🐛 6 | 🌐 OCaml | 📅 2026-08-20 - Server render Reason React components with OCaml natively
+* [html\_of\_jsx](https://github.com/davesnx/html_of_jsx) ⭐ 52 | 🐛 0 | 🌐 OCaml | 📅 2026-08-17 - Render HTML with JSX
 
 #### GraphQL
 
-* [graphql\_ppx](https://github.com/teamwalnut/graphql-ppx) ⭐ 263 | 🐛 40 | 🌐 OCaml | 📅 2026-02-10 - GraphQL PPX rewriter for Bucklescript/ReasonML written in ReasonML.
+* [graphql\_ppx](https://github.com/teamwalnut/graphql-ppx) ⭐ 262 | 🐛 40 | 🌐 OCaml | 📅 2026-02-10 - GraphQL PPX rewriter for Bucklescript/ReasonML written in ReasonML.
 * [reasonql](https://github.com/sainthkh/reasonql) ⭐ 96 | 🐛 10 | 🌐 JavaScript | 📅 2022-12-22 - Type-safe and simple GraphQL client for ReasonML
 * [melange-relay](https://github.com/anmonteiro/melange-relay) ⭐ 5 | 🐛 0 | 🌐 OCaml | 📅 2026-01-28 - Use Relay with ReasonML
 
@@ -144,7 +144,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 
-* [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 910 | 🐛 142 | 🌐 OCaml | 📅 2026-08-16 - OCaml Language Server Protocol implementation
+* [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 910 | 🐛 143 | 🌐 OCaml | 📅 2026-08-16 - OCaml Language Server Protocol implementation
 * [vscode-ocaml-platform](https://github.com/ocamllabs/vscode-ocaml-platform) ⭐ 386 | 🐛 61 | 🌐 OCaml | 📅 2026-08-18 - Visual Studio Code extension for ReasonML and OCaml
 
 ***
@@ -199,4 +199,4 @@ Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

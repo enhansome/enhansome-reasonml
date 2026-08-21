@@ -183,7 +183,7 @@
                     "last_commit": "2026-01-21T23:45:28Z",
                     "owner": "reazen",
                     "repo": "relude",
-                    "stars": 269
+                    "stars": 267
                   }
                 }
               ],
@@ -205,7 +205,7 @@
                     "last_commit": "2026-06-15T18:44:06Z",
                     "owner": "reasonml",
                     "repo": "reason-react",
-                    "stars": 3265
+                    "stars": 3264
                   }
                 },
                 {
@@ -272,7 +272,7 @@
                     "last_commit": "2026-08-05T05:53:10Z",
                     "owner": "ahrefs",
                     "repo": "atd",
-                    "stars": 353
+                    "stars": 352
                   }
                 },
                 {
@@ -317,7 +317,7 @@
                     "last_commit": "2026-08-14T18:06:48Z",
                     "owner": "melange-community",
                     "repo": "jsonkit",
-                    "stars": 25
+                    "stars": 24
                   }
                 }
               ],
@@ -351,7 +351,7 @@
                     "archived": false,
                     "id": 534182334,
                     "language": "OCaml",
-                    "last_commit": "2026-08-19T18:40:42Z",
+                    "last_commit": "2026-08-20T16:40:43Z",
                     "owner": "ml-in-barcelona",
                     "repo": "server-reason-react",
                     "stars": 175
@@ -369,7 +369,7 @@
                     "last_commit": "2026-08-17T10:02:21Z",
                     "owner": "davesnx",
                     "repo": "html_of_jsx",
-                    "stars": 53
+                    "stars": 52
                   }
                 }
               ],
@@ -391,7 +391,7 @@
                     "last_commit": "2026-02-10T15:15:40Z",
                     "owner": "teamwalnut",
                     "repo": "graphql-ppx",
-                    "stars": 263
+                    "stars": 262
                   }
                 },
                 {
@@ -1000,7 +1000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T00:02:17.413Z",
+    "last_updated": "2026-08-21T00:03:30.381Z",
     "original_repository": "vramana/awesome-reasonml",
     "original_repository_id": 70804893,
     "original_repository_sha": "84fd8ce497e9a03e69b89df7f4df2661000280ed",
