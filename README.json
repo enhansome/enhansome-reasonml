@@ -153,7 +153,7 @@
                     "last_commit": "2023-04-20T19:24:40Z",
                     "owner": "darklang",
                     "repo": "tablecloth",
-                    "stars": 518
+                    "stars": 517
                   }
                 },
                 {
@@ -351,7 +351,7 @@
                     "archived": false,
                     "id": 534182334,
                     "language": "OCaml",
-                    "last_commit": "2026-08-20T16:40:43Z",
+                    "last_commit": "2026-08-21T21:27:35Z",
                     "owner": "ml-in-barcelona",
                     "repo": "server-reason-react",
                     "stars": 175
@@ -1000,7 +1000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T00:03:30.381Z",
+    "last_updated": "2026-08-22T00:02:47.199Z",
     "original_repository": "vramana/awesome-reasonml",
     "original_repository_id": 70804893,
     "original_repository_sha": "84fd8ce497e9a03e69b89df7f4df2661000280ed",

@@ -1,8 +1,8 @@
 # Awesome reasonml with stars
 
-### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,231 | 🐛 105 | 📅 2026-08-18
+### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,647 | 🐛 105 | 📅 2026-08-21
 
-A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,231 | 🐛 105 | 📅 2026-08-18 list thing. Feel free to improve this list.
+A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,647 | 🐛 105 | 📅 2026-08-21 list thing. Feel free to improve this list.
 
 * [Reason](#reason)
   * [General Resources](#general-resources)
@@ -102,7 +102,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 #### Standard Libs
 
-* [tablecloth](https://github.com/darklang/tablecloth) ⭐ 518 | 🐛 38 | 🌐 JavaScript | 📅 2023-04-20 - An ergonomic, cross-platform, standard library for ReasonML and OCaml
+* [tablecloth](https://github.com/darklang/tablecloth) ⭐ 517 | 🐛 38 | 🌐 JavaScript | 📅 2023-04-20 - An ergonomic, cross-platform, standard library for ReasonML and OCaml
 * [Rationale](https://github.com/jonlaing/rationale) ⭐ 275 | 🐛 12 | 🌐 OCaml | 📅 2023-01-03 - Ramda inspired library of helper functions for ReasonML
 * [relude](https://github.com/reazen/relude) ⭐ 267 | 🐛 43 | 🌐 Reason | 📅 2026-01-21 - FP-inspired prelude/standard library for ReasonML projects.
 * [Belt](https://melange.re/v4.0.0/api/re/melange/Belt/) - A stdlib shipped with Melange.
@@ -125,7 +125,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 #### Server
 
 * [Dream](https://github.com/aantron/dream) ⭐ 1,875 | 🐛 109 | 🌐 OCaml | 📅 2026-05-23 - Tidy, feature-complete Web framework
-* [server-reason-react](https://github.com/ml-in-barcelona/server-reason-react) ⭐ 175 | 🐛 6 | 🌐 OCaml | 📅 2026-08-20 - Server render Reason React components with OCaml natively
+* [server-reason-react](https://github.com/ml-in-barcelona/server-reason-react) ⭐ 175 | 🐛 6 | 🌐 OCaml | 📅 2026-08-21 - Server render Reason React components with OCaml natively
 * [html\_of\_jsx](https://github.com/davesnx/html_of_jsx) ⭐ 52 | 🐛 0 | 🌐 OCaml | 📅 2026-08-17 - Render HTML with JSX
 
 #### GraphQL
@@ -157,7 +157,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 * [ReLayout](https://github.com/jordwalke/ReLayout) ⭐ 389 | 🐛 8 | 🌐 Reason | 📅 2024-03-12 - Standalone CSS Flexbox Implementation in Reason
 * [Mareo](https://github.com/reasonml-community/Mareo) ⭐ 382 | 🐛 2 | 🌐 JavaScript | 📅 2018-04-17 - Online Mario game demo drawn on canvas
 * [ReasonML RealWorld example app #2](https://github.com/jihchi/reason-react-realworld-example-app) ⭐ 193 | 🐛 2 | 🌐 ReScript | 📅 2026-04-25 - Another Medium.com clone written using ReasonReact
-* [Coronate](https://github.com/johnridesabike/coronate) ⭐ 175 | 🐛 8 | 🌐 ReScript | 📅 2026-07-25 - A Swiss-style chess tournament manager for the web and desktop, written with ReasonReact. [(web demo)](https://johnridesa.bike/coronate/)
+* [Coronate](https://github.com/johnridesabike/coronate) ⭐ 175 | 🐛 9 | 🌐 ReScript | 📅 2026-07-25 - A Swiss-style chess tournament manager for the web and desktop, written with ReasonReact. [(web demo)](https://johnridesa.bike/coronate/)
 * [99.re](https://github.com/shrynx/99.re) ⭐ 111 | 🐛 0 | 🌐 OCaml | 📅 2017-11-24 - Solutions to 99 problems implemented in Reason
 * [ReasonML RealWorld example app](https://github.com/gothinkster/reasonml-realworld-example-app) ⭐ 59 | 🐛 1 | 🌐 Reason | 📅 2021-09-06 - Medium.com clone written using ReasonReact
 * [re:bench](https://github.com/rebench/rebench.github.io) ⭐ 44 | 🐛 3 | 🌐 JavaScript | 📅 2018-06-11 - Benchmarking playground built with ReasonReact. A real app in real use.
@@ -199,4 +199,4 @@ Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
