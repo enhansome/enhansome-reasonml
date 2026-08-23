@@ -339,7 +339,7 @@
                     "last_commit": "2026-05-23T18:26:29Z",
                     "owner": "camlworks",
                     "repo": "dream",
-                    "stars": 1875
+                    "stars": 1877
                   }
                 },
                 {
@@ -500,7 +500,7 @@
                 "last_commit": "2026-08-16T23:25:50Z",
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
-                "stars": 910
+                "stars": 909
               }
             },
             {
@@ -1000,7 +1000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T00:02:47.199Z",
+    "last_updated": "2026-08-23T00:00:44.115Z",
     "original_repository": "vramana/awesome-reasonml",
     "original_repository_id": 70804893,
     "original_repository_sha": "84fd8ce497e9a03e69b89df7f4df2661000280ed",
