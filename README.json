@@ -339,7 +339,7 @@
                     "last_commit": "2026-05-23T18:26:29Z",
                     "owner": "camlworks",
                     "repo": "dream",
-                    "stars": 1877
+                    "stars": 1878
                   }
                 },
                 {
@@ -497,7 +497,7 @@
                 "archived": false,
                 "id": 227073289,
                 "language": "OCaml",
-                "last_commit": "2026-08-16T23:25:50Z",
+                "last_commit": "2026-08-23T21:58:59Z",
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
                 "stars": 909
@@ -512,7 +512,7 @@
                 "archived": false,
                 "id": 225361931,
                 "language": "OCaml",
-                "last_commit": "2026-08-18T21:07:20Z",
+                "last_commit": "2026-08-23T02:35:28Z",
                 "owner": "ocamllabs",
                 "repo": "vscode-ocaml-platform",
                 "stars": 386
@@ -1000,7 +1000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T00:00:44.115Z",
+    "last_updated": "2026-08-24T00:00:52.697Z",
     "original_repository": "vramana/awesome-reasonml",
     "original_repository_id": 70804893,
     "original_repository_sha": "84fd8ce497e9a03e69b89df7f4df2661000280ed",
