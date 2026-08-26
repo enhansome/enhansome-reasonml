@@ -541,7 +541,7 @@
                 "archived": false,
                 "id": 227073289,
                 "language": "OCaml",
-                "last_commit": "2026-08-23T21:58:59Z",
+                "last_commit": "2026-08-25T20:33:30Z",
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
                 "stars": 909
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:05:01.897Z",
+    "last_updated": "2026-08-26T00:02:59.183Z",
     "original_repository": "vramana/awesome-reasonml",
     "original_repository_id": 70804893,
     "original_repository_sha": "84fd8ce497e9a03e69b89df7f4df2661000280ed",
