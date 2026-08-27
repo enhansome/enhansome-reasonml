@@ -395,7 +395,7 @@
                     "archived": false,
                     "id": 534182334,
                     "language": "OCaml",
-                    "last_commit": "2026-08-26T16:22:34Z",
+                    "last_commit": "2026-08-27T09:58:43Z",
                     "owner": "ml-in-barcelona",
                     "repo": "server-reason-react",
                     "stars": 175
@@ -1044,9 +1044,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:08:08.394Z",
-    "original_repository": "vramana/awesome-reasonml",
-    "original_repository_id": 70804893,
+    "last_updated": "2026-08-27T11:58:54.261Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 70804893,
+      "language": null,
+      "last_commit": "2024-06-21T04:45:22Z",
+      "owner": "vramana",
+      "repo": "awesome-reasonml",
+      "stars": 1475
+    },
     "original_repository_sha": "84fd8ce497e9a03e69b89df7f4df2661000280ed",
     "enhanced_repository": "enhansome/enhansome-reasonml",
     "enhanced_repository_description": null,
