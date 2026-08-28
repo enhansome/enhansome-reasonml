@@ -18,7 +18,8 @@
                 "owner": "reasonml",
                 "repo": "reason",
                 "stars": 10323
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "melange-community",
                 "repo": "create-melange-app",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "melange-re",
                 "repo": "melange-opam-template",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "melange-re",
                 "repo": "melange-esy-template",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "ManasJayanth",
                 "repo": "reason-aoc-starter",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             }
           ],
           "description": null,
@@ -107,7 +112,8 @@
                 "owner": "chenglou",
                 "repo": "intro-to-reason-compilation",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             }
           ],
           "description": null,
@@ -129,7 +135,8 @@
                 "owner": "reasonml",
                 "repo": "reason-tools",
                 "stars": 373
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -144,7 +151,8 @@
                 "owner": "stereobooster",
                 "repo": "type-o-rama",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -159,7 +167,8 @@
                 "owner": "reasonml",
                 "repo": "red",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -174,7 +183,8 @@
                 "owner": "pdelacroix",
                 "repo": "vite-plugin-melange",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             }
           ],
           "description": null,
@@ -198,7 +208,8 @@
                     "owner": "darklang",
                     "repo": "tablecloth",
                     "stars": 517
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 },
                 {
                   "node_type": "item",
@@ -213,7 +224,8 @@
                     "owner": "jonlaing",
                     "repo": "rationale",
                     "stars": 275
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 },
                 {
                   "node_type": "item",
@@ -228,7 +240,8 @@
                     "owner": "reazen",
                     "repo": "relude",
                     "stars": 267
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 }
               ],
               "description": null,
@@ -250,7 +263,8 @@
                     "owner": "reasonml",
                     "repo": "reason-react",
                     "stars": 3263
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 },
                 {
                   "node_type": "item",
@@ -265,7 +279,8 @@
                     "owner": "davesnx",
                     "repo": "styled-ppx",
                     "stars": 413
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 },
                 {
                   "node_type": "item",
@@ -280,7 +295,8 @@
                     "owner": "aantron",
                     "repo": "promise",
                     "stars": 340
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 },
                 {
                   "node_type": "item",
@@ -295,7 +311,8 @@
                     "owner": "melange-community",
                     "repo": "melange-fetch",
                     "stars": 208
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 }
               ],
               "description": null,
@@ -317,7 +334,8 @@
                     "owner": "ahrefs",
                     "repo": "atd",
                     "stars": 352
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 },
                 {
                   "node_type": "item",
@@ -332,7 +350,8 @@
                     "owner": "mlms13",
                     "repo": "bs-decode",
                     "stars": 103
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 },
                 {
                   "node_type": "item",
@@ -347,7 +366,8 @@
                     "owner": "mattjbray",
                     "repo": "ocaml-decoders",
                     "stars": 85
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 },
                 {
                   "node_type": "item",
@@ -362,7 +382,8 @@
                     "owner": "melange-community",
                     "repo": "jsonkit",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 }
               ],
               "description": null,
@@ -383,8 +404,9 @@
                     "last_commit": "2026-05-23T18:26:29Z",
                     "owner": "camlworks",
                     "repo": "dream",
-                    "stars": 1878
-                  }
+                    "stars": 1877
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 },
                 {
                   "node_type": "item",
@@ -395,11 +417,12 @@
                     "archived": false,
                     "id": 534182334,
                     "language": "OCaml",
-                    "last_commit": "2026-08-27T09:58:43Z",
+                    "last_commit": "2026-08-27T15:10:37Z",
                     "owner": "ml-in-barcelona",
                     "repo": "server-reason-react",
                     "stars": 175
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 },
                 {
                   "node_type": "item",
@@ -414,7 +437,8 @@
                     "owner": "davesnx",
                     "repo": "html_of_jsx",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 }
               ],
               "description": null,
@@ -436,7 +460,8 @@
                     "owner": "teamwalnut",
                     "repo": "graphql-ppx",
                     "stars": 262
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 },
                 {
                   "node_type": "item",
@@ -451,7 +476,8 @@
                     "owner": "sainthkh",
                     "repo": "reasonql",
                     "stars": 96
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 },
                 {
                   "node_type": "item",
@@ -466,7 +492,8 @@
                     "owner": "anmonteiro",
                     "repo": "melange-relay",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 }
               ],
               "description": null,
@@ -488,7 +515,8 @@
                     "owner": "ahrefs",
                     "repo": "melange-fest",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 },
                 {
                   "node_type": "item",
@@ -503,7 +531,8 @@
                     "owner": "melange-community",
                     "repo": "melange-testing-library",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 },
                 {
                   "node_type": "item",
@@ -518,7 +547,8 @@
                     "owner": "melange-community",
                     "repo": "melange-jest",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:06:46.238Z"
                 }
               ],
               "description": null,
@@ -545,7 +575,8 @@
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
                 "stars": 909
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -560,7 +591,8 @@
                 "owner": "ocamllabs",
                 "repo": "vscode-ocaml-platform",
                 "stars": 386
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             }
           ],
           "description": "See the official guide here",
@@ -582,7 +614,8 @@
                 "owner": "reasonml-old",
                 "repo": "reason-react-example",
                 "stars": 643
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -597,7 +630,8 @@
                 "owner": "reasonml-community",
                 "repo": "reason-react-hacker-news",
                 "stars": 594
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -612,7 +646,8 @@
                 "owner": "jaredly",
                 "repo": "gravitron",
                 "stars": 490
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -627,7 +662,8 @@
                 "owner": "jordwalke",
                 "repo": "flex",
                 "stars": 389
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -642,7 +678,8 @@
                 "owner": "reasonml-community",
                 "repo": "Mareo",
                 "stars": 382
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -657,7 +694,8 @@
                 "owner": "jihchi",
                 "repo": "rescript-react-realworld-example-app",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -672,7 +710,8 @@
                 "owner": "johnridesabike",
                 "repo": "coronate",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -687,7 +726,8 @@
                 "owner": "shrynx",
                 "repo": "99.re",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -702,7 +742,8 @@
                 "owner": "gothinkster",
                 "repo": "reasonml-realworld-example-app",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -717,7 +758,8 @@
                 "owner": "rebench",
                 "repo": "rebench.github.io",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -732,7 +774,8 @@
                 "owner": "jaredly",
                 "repo": "reason-maze",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -747,7 +790,8 @@
                 "owner": "puemos",
                 "repo": "reasonml-astar-maze",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -762,7 +806,8 @@
                 "owner": "kutyel",
                 "repo": "reason-catstagram",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -777,7 +822,8 @@
                 "owner": "venil7",
                 "repo": "reason-chess",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -792,7 +838,8 @@
                 "owner": "tkovs",
                 "repo": "pomodoro",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -807,7 +854,8 @@
                 "owner": "excitement-engineer",
                 "repo": "Red",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -822,7 +870,8 @@
                 "owner": "scottcheng",
                 "repo": "si-reason",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -837,7 +886,8 @@
                 "owner": "alanrsoares",
                 "repo": "2048-reasons",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -852,7 +902,8 @@
                 "owner": "RawToast",
                 "repo": "dokusho",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -867,7 +918,8 @@
                 "owner": "marmelab",
                 "repo": "reversi-reason",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -882,7 +934,8 @@
                 "owner": "RawToast",
                 "repo": "bouken",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -897,7 +950,8 @@
                 "owner": "rvcas",
                 "repo": "repos",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -912,7 +966,8 @@
                 "owner": "arecvlohe",
                 "repo": "reason-react-simon-game",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -927,7 +982,8 @@
                 "owner": "alanrsoares",
                 "repo": "reasonml-game-of-life",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -942,7 +998,8 @@
                 "owner": "venil7",
                 "repo": "ReasonML-TicTacToe",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -957,7 +1014,8 @@
                 "owner": "leomayleomay",
                 "repo": "we-write-app",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -972,7 +1030,8 @@
                 "owner": "denis-ok",
                 "repo": "reasonml-reatris",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -987,7 +1046,8 @@
                 "owner": "smartlogic",
                 "repo": "reasonsplash",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -1002,7 +1062,8 @@
                 "owner": "jimmyhuco",
                 "repo": "simple-calculator",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -1017,7 +1078,8 @@
                 "owner": "dtasic",
                 "repo": "re-memory",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             },
             {
               "node_type": "item",
@@ -1032,7 +1094,8 @@
                 "owner": "liubko",
                 "repo": "reason-memory-gifs",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T07:06:46.238Z"
             }
           ],
           "description": null,
@@ -1044,7 +1107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:58:54.261Z",
+    "last_updated": "2026-08-28T07:06:46.238Z",
     "original_repository_info": {
       "archived": false,
       "id": 70804893,
