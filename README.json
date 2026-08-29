@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems",
+                "homepage": "http://reasonml.github.io",
                 "id": 46261404,
                 "language": "OCaml",
+                "license": "MIT",
                 "last_commit": "2026-08-13T01:01:23Z",
+                "open_issues": 190,
                 "owner": "reasonml",
                 "repo": "reason",
-                "stars": 10323
+                "stars": 10323,
+                "topics": [
+                  "javascript",
+                  "ocaml",
+                  "programming-language",
+                  "reason",
+                  "reasonml"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             }
@@ -35,12 +46,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fastest, friendliest, and most delightful way to get started with OCaml, ReasonML, and Melange, geared towards JavaScript and TypeScript developers",
+                "homepage": null,
                 "id": 714158576,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2026-03-12T19:01:31Z",
+                "open_issues": 21,
                 "owner": "melange-community",
                 "repo": "create-melange-app",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "functional-programming",
+                  "javascript",
+                  "ocaml",
+                  "reasonml",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -51,12 +73,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple project template using Melange with opam",
+                "homepage": null,
                 "id": 556696663,
                 "language": "Reason",
+                "license": "MIT",
                 "last_commit": "2024-11-14T17:12:06Z",
+                "open_issues": 1,
                 "owner": "melange-re",
                 "repo": "melange-opam-template",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -67,12 +94,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple project template using Melange",
+                "homepage": null,
                 "id": 354081973,
                 "language": "Reason",
+                "license": "MIT",
                 "last_commit": "2024-01-21T01:20:46Z",
+                "open_issues": 1,
                 "owner": "melange-re",
                 "repo": "melange-esy-template",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -83,12 +115,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reason Starter kit for Advent of Code ",
+                "homepage": null,
                 "id": 317428397,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-02-06T10:05:36Z",
+                "open_issues": 0,
                 "owner": "ManasJayanth",
                 "repo": "reason-aoc-starter",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "advent-of-code",
+                  "esy",
+                  "ocaml",
+                  "pesy",
+                  "reason"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             }
@@ -106,12 +149,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ready up!",
+                "homepage": null,
                 "id": 66176091,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2020-05-12T04:14:25Z",
+                "open_issues": 6,
                 "owner": "chenglou",
                 "repo": "intro-to-reason-compilation",
-                "stars": 270
+                "stars": 270,
+                "topics": [
+                  "bucklescript",
+                  "ocaml",
+                  "ocaml-compiler",
+                  "reason"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             }
@@ -129,12 +182,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds Reason to the browser",
+                "homepage": null,
                 "id": 71732507,
                 "language": "OCaml",
+                "license": "MIT",
                 "last_commit": "2018-06-03T20:16:36Z",
+                "open_issues": 25,
                 "owner": "reasonml",
                 "repo": "reason-tools",
-                "stars": 373
+                "stars": 373,
+                "topics": [
+                  "browser-extension",
+                  "chrome",
+                  "ocaml",
+                  "reason",
+                  "reasonml",
+                  "refmt"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -145,12 +210,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👾 JS type systems interportability",
+                "homepage": null,
                 "id": 117700696,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-11-14T10:32:09Z",
+                "open_issues": 1,
                 "owner": "stereobooster",
                 "repo": "type-o-rama",
-                "stars": 247
+                "stars": 247,
+                "topics": [
+                  "closure-compiler",
+                  "elm",
+                  "flow",
+                  "graphql-schema",
+                  "jsdoc",
+                  "json-schema",
+                  "purescript",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -161,12 +240,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reason Debugger",
+                "homepage": null,
                 "id": 73147563,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-20T17:05:55Z",
+                "open_issues": 4,
                 "owner": "reasonml",
                 "repo": "red",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -177,12 +261,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Vite plugin for Melange",
+                "homepage": null,
                 "id": 475246067,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-04-21T12:42:10Z",
+                "open_issues": 2,
                 "owner": "pdelacroix",
                 "repo": "vite-plugin-melange",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             }
@@ -202,12 +291,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A standard library with the same API in F#, Rescript and OCaml",
+                    "homepage": "https://www.tablecloth.dev",
                     "id": 166582588,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-20T19:24:40Z",
+                    "open_issues": 38,
                     "owner": "darklang",
                     "repo": "tablecloth",
-                    "stars": 517
+                    "stars": 517,
+                    "topics": [
+                      "fsharp",
+                      "ocaml",
+                      "rescript",
+                      "standard-library"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 },
@@ -218,12 +317,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ramda inspired library of helper functions for ReasonML",
+                    "homepage": null,
                     "id": 111003286,
                     "language": "OCaml",
+                    "license": "MIT",
                     "last_commit": "2023-01-03T18:23:11Z",
+                    "open_issues": 12,
                     "owner": "jonlaing",
                     "repo": "rationale",
-                    "stars": 275
+                    "stars": 275,
+                    "topics": [
+                      "bucklescript",
+                      "lodash",
+                      "monad",
+                      "ramda",
+                      "reasonml",
+                      "utility"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 },
@@ -234,12 +345,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FP-inspired prelude/standard library for ReasonML projects",
+                    "homepage": "https://reazen.github.io/relude",
                     "id": 154898931,
                     "language": "Reason",
+                    "license": "MIT",
                     "last_commit": "2026-01-21T23:45:28Z",
+                    "open_issues": 43,
                     "owner": "reazen",
                     "repo": "relude",
-                    "stars": 267
+                    "stars": 267,
+                    "topics": [
+                      "bucklescript",
+                      "prelude",
+                      "reasonml",
+                      "stdlib",
+                      "stdlib-replacement",
+                      "utility"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 }
@@ -257,12 +380,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reason bindings for ReactJS",
+                    "homepage": "https://reasonml.github.io/reason-react/",
                     "id": 86212322,
                     "language": "Reason",
+                    "license": "MIT",
                     "last_commit": "2026-06-15T18:44:06Z",
+                    "open_issues": 34,
                     "owner": "reasonml",
                     "repo": "reason-react",
-                    "stars": 3263
+                    "stars": 3263,
+                    "topics": [
+                      "melange",
+                      "react",
+                      "reasonml"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 },
@@ -273,12 +405,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "styled components for Reason/OCaml with type-safe CSS and static extraction",
+                    "homepage": "https://styled-ppx.vercel.app",
                     "id": 235614466,
                     "language": "OCaml",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-07-22T21:58:05Z",
+                    "open_issues": 31,
                     "owner": "davesnx",
                     "repo": "styled-ppx",
-                    "stars": 413
+                    "stars": 413,
+                    "topics": [
+                      "css",
+                      "melange",
+                      "ocaml",
+                      "reason",
+                      "reason-react",
+                      "reasonml",
+                      "rescript",
+                      "styled",
+                      "vscode-extension"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 },
@@ -289,12 +436,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Light and type-safe binding to JS promises",
+                    "homepage": null,
                     "id": 116451935,
                     "language": "Reason",
+                    "license": "MIT",
                     "last_commit": "2023-10-04T14:07:58Z",
+                    "open_issues": 16,
                     "owner": "aantron",
                     "repo": "promise",
-                    "stars": 340
+                    "stars": 340,
+                    "topics": [
+                      "async",
+                      "promises",
+                      "rescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 },
@@ -305,12 +461,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fetch bindings for Melange",
+                    "homepage": null,
                     "id": 85704413,
                     "language": "OCaml",
+                    "license": "MIT",
                     "last_commit": "2026-06-28T04:58:22Z",
+                    "open_issues": 3,
                     "owner": "melange-community",
                     "repo": "melange-fetch",
-                    "stars": 208
+                    "stars": 208,
+                    "topics": [
+                      "bucklescript",
+                      "fetch",
+                      "reasonml"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 }
@@ -328,12 +493,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Static types for JSON APIs",
+                    "homepage": null,
                     "id": 8681682,
                     "language": "OCaml",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-05T05:53:10Z",
+                    "open_issues": 88,
                     "owner": "ahrefs",
                     "repo": "atd",
-                    "stars": 352
+                    "stars": 352,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 },
@@ -344,12 +514,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Type-safe JSON decoding for ReasonML and OCaml",
+                    "homepage": "https://mlms13.github.io/bs-decode/docs/what-and-why",
                     "id": 147429778,
                     "language": "Reason",
+                    "license": "MIT",
                     "last_commit": "2024-01-22T20:34:06Z",
+                    "open_issues": 15,
                     "owner": "mlms13",
                     "repo": "bs-decode",
-                    "stars": 103
+                    "stars": 103,
+                    "topics": [
+                      "bucklescript",
+                      "decoding",
+                      "json",
+                      "json-decoding",
+                      "json-values",
+                      "reasonml"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 },
@@ -360,12 +542,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Elm-inspired decoders for Ocaml",
+                    "homepage": "https://mattjbray.github.io/ocaml-decoders/",
                     "id": 134883548,
                     "language": "OCaml",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-21T23:38:42Z",
+                    "open_issues": 9,
                     "owner": "mattjbray",
                     "repo": "ocaml-decoders",
-                    "stars": 85
+                    "stars": 85,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 },
@@ -376,12 +563,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Compositional JSON encode/decode library and PPX for Melange and OCaml",
+                    "homepage": null,
                     "id": 656713692,
                     "language": "OCaml",
+                    "license": "LGPL-3.0",
                     "last_commit": "2026-08-14T18:06:48Z",
+                    "open_issues": 20,
                     "owner": "melange-community",
                     "repo": "jsonkit",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": [
+                      "encoder-decoder",
+                      "melange",
+                      "ocaml",
+                      "ppx"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 }
@@ -399,12 +596,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tidy, feature-complete Web framework",
+                    "homepage": "https://camlworks.github.io/dream/",
                     "id": 345513448,
                     "language": "OCaml",
+                    "license": "MIT",
                     "last_commit": "2026-05-23T18:26:29Z",
+                    "open_issues": 109,
                     "owner": "camlworks",
                     "repo": "dream",
-                    "stars": 1877
+                    "stars": 1877,
+                    "topics": [
+                      "framework",
+                      "graphql",
+                      "http",
+                      "ocaml",
+                      "reasonml",
+                      "web",
+                      "websockets"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 },
@@ -415,12 +625,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Native implementation of React's Server-side rendering (SSR) and React Server Components (RSC) architecture for Reason and OCaml",
+                    "homepage": "https://ml-in-barcelona.github.io/server-reason-react/server-reason-react/index.html",
                     "id": 534182334,
                     "language": "OCaml",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T15:10:37Z",
+                    "open_issues": 6,
                     "owner": "ml-in-barcelona",
                     "repo": "server-reason-react",
-                    "stars": 175
+                    "stars": 175,
+                    "topics": [
+                      "melange",
+                      "ocaml",
+                      "reason",
+                      "reason-react",
+                      "server-reason-react"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 },
@@ -431,12 +652,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Render HTML with JSX",
+                    "homepage": "https://davesnx.github.io/html_of_jsx",
                     "id": 714464957,
                     "language": "OCaml",
+                    "license": "MIT",
                     "last_commit": "2026-08-17T10:02:21Z",
+                    "open_issues": 0,
                     "owner": "davesnx",
                     "repo": "html_of_jsx",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 }
@@ -454,12 +680,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GraphQL language primitives for ReScript/ReasonML written in ReasonML",
+                    "homepage": "https://graphql-ppx.com",
                     "id": 179522522,
                     "language": "OCaml",
+                    "license": "MIT",
                     "last_commit": "2026-02-10T15:15:40Z",
+                    "open_issues": 40,
                     "owner": "teamwalnut",
                     "repo": "graphql-ppx",
-                    "stars": 262
+                    "stars": 262,
+                    "topics": [
+                      "bucklescript",
+                      "graphql",
+                      "graphql-ppx",
+                      "ocaml",
+                      "reason-native",
+                      "reasonml",
+                      "rescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 },
@@ -470,12 +709,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Type-safe and simple GraphQL library for ReasonML developers. ",
+                    "homepage": null,
                     "id": 173908519,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-12-22T10:47:49Z",
+                    "open_issues": 10,
                     "owner": "sainthkh",
                     "repo": "reasonql",
-                    "stars": 96
+                    "stars": 96,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 },
@@ -486,12 +730,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Use Relay with Melange",
+                    "homepage": "https://rescript-relay-documentation.vercel.app/docs/getting-started",
                     "id": 493766800,
                     "language": "OCaml",
+                    "license": "MIT",
                     "last_commit": "2026-01-28T07:08:55Z",
+                    "open_issues": 0,
                     "owner": "anmonteiro",
                     "repo": "melange-relay",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 }
@@ -509,12 +758,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A minimal test framework for Melange using Node test runner",
+                    "homepage": "https://ahrefs.github.io/melange-fest/",
                     "id": 715972604,
                     "language": "OCaml",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T01:36:56Z",
+                    "open_issues": 0,
                     "owner": "ahrefs",
                     "repo": "melange-fest",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 },
@@ -525,12 +779,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Melange bindings for testing-library (dom-testing-library and react-testing-library)",
+                    "homepage": null,
                     "id": 653594598,
                     "language": "Reason",
+                    "license": "MIT",
                     "last_commit": "2026-06-28T04:59:55Z",
+                    "open_issues": 2,
                     "owner": "melange-community",
                     "repo": "melange-testing-library",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 },
@@ -541,12 +800,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Melange bindings for Jest",
+                    "homepage": null,
                     "id": 656215408,
                     "language": "OCaml",
+                    "license": "MIT",
                     "last_commit": "2026-06-28T04:52:30Z",
+                    "open_issues": 5,
                     "owner": "melange-community",
                     "repo": "melange-jest",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
                 }
@@ -569,12 +833,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCaml Language Server Protocol implementation",
+                "homepage": null,
                 "id": 227073289,
                 "language": "OCaml",
-                "last_commit": "2026-08-25T20:33:30Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T16:33:34Z",
+                "open_issues": 145,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
-                "stars": 909
+                "stars": 909,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -585,12 +854,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual Studio Code extension for OCaml",
+                "homepage": null,
                 "id": 225361931,
                 "language": "OCaml",
-                "last_commit": "2026-08-26T00:47:38Z",
+                "license": "ISC",
+                "last_commit": "2026-08-28T13:23:21Z",
+                "open_issues": 62,
                 "owner": "ocamllabs",
                 "repo": "vscode-ocaml-platform",
-                "stars": 386
+                "stars": 386,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             }
@@ -608,12 +882,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Examples for ReasonReact",
+                "homepage": null,
                 "id": 79892380,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-07-16T00:47:09Z",
+                "open_issues": 11,
                 "owner": "reasonml-old",
                 "repo": "reason-react-example",
-                "stars": 643
+                "stars": 643,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -624,12 +903,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "hacker news mobile app made with reason react",
+                "homepage": "https://hackernewsmobile.com",
                 "id": 92066128,
                 "language": "Reason",
+                "license": "MIT",
                 "last_commit": "2023-01-07T04:04:54Z",
+                "open_issues": 23,
                 "owner": "reasonml-community",
                 "repo": "reason-react-hacker-news",
-                "stars": 594
+                "stars": 594,
+                "topics": [
+                  "reason",
+                  "reason-react",
+                  "reasonml"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -640,12 +928,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a little game",
+                "homepage": "https://gravitron.jaredforsyth.com",
                 "id": 112057909,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2023-10-20T08:20:25Z",
+                "open_issues": 9,
                 "owner": "jaredly",
                 "repo": "gravitron",
-                "stars": 490
+                "stars": 490,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -656,12 +949,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reason CSS Flexbox implementation",
+                "homepage": null,
                 "id": 71695182,
                 "language": "Reason",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-12T12:13:27Z",
+                "open_issues": 8,
                 "owner": "jordwalke",
                 "repo": "flex",
-                "stars": 389
+                "stars": 389,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -672,12 +970,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTML 5 canvas implementation of Mario in Reason + Bucklescript",
+                "homepage": "https://reasonml-community.github.io/Mareo/",
                 "id": 89438735,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-17T06:06:15Z",
+                "open_issues": 2,
                 "owner": "reasonml-community",
                 "repo": "Mareo",
-                "stars": 382
+                "stars": 382,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -688,12 +991,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An exemplary real-world application built using ReScript and React",
+                "homepage": "https://rescript-react-realworld-example-app.vercel.app",
                 "id": 118860948,
                 "language": "ReScript",
+                "license": "MIT",
                 "last_commit": "2026-04-25T09:05:05Z",
+                "open_issues": 2,
                 "owner": "jihchi",
                 "repo": "rescript-react-realworld-example-app",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "bucklescript",
+                  "react",
+                  "reason-react",
+                  "reasonml",
+                  "rescript",
+                  "rescript-react"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -704,12 +1019,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Swiss-style chess tournament management app.",
+                "homepage": "https://coronate.netlify.app/",
                 "id": 176090008,
                 "language": "ReScript",
+                "license": "MPL-2.0",
                 "last_commit": "2026-07-25T22:13:19Z",
+                "open_issues": 9,
                 "owner": "johnridesabike",
                 "repo": "coronate",
-                "stars": 175
+                "stars": 175,
+                "topics": [
+                  "chess",
+                  "react",
+                  "rescript",
+                  "swiss-system",
+                  "tournament",
+                  "tournament-manager",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -720,12 +1048,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "99 problems with reason(able) solutions.",
+                "homepage": null,
                 "id": 111076971,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2017-11-24T14:27:31Z",
+                "open_issues": 0,
                 "owner": "shrynx",
                 "repo": "99.re",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "99problems",
+                  "bucklescript",
+                  "reason",
+                  "reasonml"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -736,12 +1074,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exemplary real world application built with ReasonML",
+                "homepage": "https://realworld.io",
                 "id": 114699776,
                 "language": "Reason",
+                "license": null,
                 "last_commit": "2021-09-06T19:35:41Z",
+                "open_issues": 1,
                 "owner": "gothinkster",
                 "repo": "reasonml-realworld-example-app",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -752,12 +1095,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmarking done Reasonably",
+                "homepage": "https://rebench.github.io",
                 "id": 110689367,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-06-11T20:41:32Z",
+                "open_issues": 3,
                 "owner": "rebench",
                 "repo": "rebench.github.io",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -768,12 +1116,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://reasonml-community.github.io/reason-maze/",
                 "id": 122230276,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2017-11-22T20:45:36Z",
+                "open_issues": 0,
                 "owner": "jaredly",
                 "repo": "reason-maze",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -784,12 +1137,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A-star search algorithm written in ReasonML",
+                "homepage": "https://puemos.github.io/reasonml-astar-maze",
                 "id": 134221396,
                 "language": "OCaml",
+                "license": "Apache-2.0",
                 "last_commit": "2018-06-09T09:03:37Z",
+                "open_issues": 0,
                 "owner": "puemos",
                 "repo": "reasonml-astar-maze",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -800,12 +1158,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐈 Catstagram made with ReasonReact!",
+                "homepage": null,
                 "id": 105761053,
                 "language": "Reason",
+                "license": "MIT",
                 "last_commit": "2019-12-11T07:27:26Z",
+                "open_issues": 1,
                 "owner": "kutyel",
                 "repo": "reason-catstagram",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "cats",
+                  "cats-are-cute",
+                  "catstagram",
+                  "instagram-api",
+                  "reason",
+                  "reason-react",
+                  "reasonml"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -816,12 +1187,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "chess library in reason for cross platform game dev",
+                "homepage": "http://darkruby.co.uk/reason-chess/",
                 "id": 122753155,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2018-03-30T13:55:49Z",
+                "open_issues": 2,
                 "owner": "venil7",
                 "repo": "reason-chess",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "alpha-beta-pruning",
+                  "chess-engine",
+                  "game-development",
+                  "game-engine",
+                  "minimax",
+                  "ocaml",
+                  "reasonml"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -832,12 +1216,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple pomodoro application. Written in ReScript and ReactJS.",
+                "homepage": "http://pomodoro.tkovs.com",
                 "id": 307115403,
                 "language": "ReScript",
+                "license": "MIT",
                 "last_commit": "2021-05-15T18:21:28Z",
+                "open_issues": 0,
                 "owner": "tkovs",
                 "repo": "pomodoro",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "bucklescript",
+                  "pomodoro",
+                  "react",
+                  "react-testing-library",
+                  "reactjs",
+                  "reasonml",
+                  "rescripts"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -848,12 +1245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pomodoro webapp created in reasonML",
+                "homepage": "https://red.now.sh",
                 "id": 107899228,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2017-11-12T13:56:19Z",
+                "open_issues": 0,
                 "owner": "excitement-engineer",
                 "repo": "Red",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -864,12 +1266,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D connect four written in Reason",
+                "homepage": "https://scottcheng.github.io/si-reason/",
                 "id": 92776108,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2021-07-05T17:13:51Z",
+                "open_issues": 0,
                 "owner": "scottcheng",
                 "repo": "si-reason",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -880,12 +1287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "It's just 2048, but not how you know it.",
+                "homepage": "https://alanrsoares.github.io/2048-reasons/",
                 "id": 138959340,
                 "language": "ReScript",
+                "license": null,
                 "last_commit": "2026-07-26T11:38:44Z",
+                "open_issues": 1,
                 "owner": "alanrsoares",
                 "repo": "2048-reasons",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -896,12 +1308,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Japanese reading stats tracker",
+                "homepage": null,
                 "id": 122740556,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2023-05-08T22:23:43Z",
+                "open_issues": 17,
                 "owner": "RawToast",
                 "repo": "dokusho",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "auth0",
+                  "http4s",
+                  "kubernetes",
+                  "mongodb",
+                  "react",
+                  "reason-react",
+                  "reasonml",
+                  "scala",
+                  "travis-ci"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -912,12 +1339,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":dromedary_camel: ReasonML implementation of Reversi Game",
+                "homepage": "https://marmelab.com/reversi-reason/",
                 "id": 120009178,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2019-04-17T16:17:35Z",
+                "open_issues": 0,
                 "owner": "marmelab",
                 "repo": "reversi-reason",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "game",
+                  "publication"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -928,12 +1363,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React based ASCII Rogue",
+                "homepage": "https://bouken-surprise.surge.sh",
                 "id": 130874980,
                 "language": "Reason",
+                "license": null,
                 "last_commit": "2025-11-20T03:13:28Z",
+                "open_issues": 5,
                 "owner": "RawToast",
                 "repo": "bouken",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "game",
+                  "now",
+                  "pathfinding",
+                  "react-reason",
+                  "reactjs",
+                  "reason-react",
+                  "reasonml",
+                  "roguelike",
+                  "turn-based"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -944,12 +1394,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Example usage of remotedata-re",
+                "homepage": null,
                 "id": 119855498,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-11-28T23:11:47Z",
+                "open_issues": 0,
                 "owner": "rvcas",
                 "repo": "repos",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "fetch",
+                  "parcel-bundler",
+                  "reason-react",
+                  "reasonml",
+                  "remotedata",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -960,12 +1422,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Simon Game...in ReasonReact",
+                "homepage": null,
                 "id": 151192208,
                 "language": "OCaml",
+                "license": "MIT",
                 "last_commit": "2022-12-08T23:49:15Z",
+                "open_issues": 21,
                 "owner": "arecvlohe",
                 "repo": "reason-react-simon-game",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "reason-react",
+                  "reasonml",
+                  "simon-game"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -976,12 +1447,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Conway's Game of Life written in ReasonML using ReasonReact",
+                "homepage": "https://alanrsoares.github.io/reasonml-game-of-life/",
                 "id": 118989201,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2018-11-28T21:32:38Z",
+                "open_issues": 0,
                 "owner": "alanrsoares",
                 "repo": "reasonml-game-of-life",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "conways-game-of-life",
+                  "game-of-life",
+                  "reason-react",
+                  "reasonml"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -992,12 +1473,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "unbeatable tictactoe engine implemented in ReasonML",
+                "homepage": null,
                 "id": 118975723,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2018-02-22T17:50:39Z",
+                "open_issues": 0,
                 "owner": "venil7",
                 "repo": "ReasonML-TicTacToe",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "game-development",
+                  "game-engine",
+                  "minimax",
+                  "react",
+                  "reasonml",
+                  "tic-tac-toe"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -1008,12 +1501,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 194959556,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2022-12-10T21:08:34Z",
+                "open_issues": 20,
                 "owner": "leomayleomay",
                 "repo": "we-write-app",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -1024,12 +1522,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple implementation of classic tetris game using Reason and ReasonReact",
+                "homepage": "https://reasonml-reatris.now.sh",
                 "id": 147237802,
                 "language": "Reason",
+                "license": null,
                 "last_commit": "2023-01-06T01:35:21Z",
+                "open_issues": 25,
                 "owner": "denis-ok",
                 "repo": "reasonml-reatris",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "reason",
+                  "reason-react",
+                  "reasonml",
+                  "reasonreact",
+                  "tetris"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -1040,12 +1549,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Unsplash mobile client built with ReasonML",
+                "homepage": null,
                 "id": 116034239,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2018-03-14T14:23:30Z",
+                "open_issues": 0,
                 "owner": "smartlogic",
                 "repo": "reasonsplash",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "ocaml",
+                  "react",
+                  "reactjs",
+                  "reason-react",
+                  "reasonml",
+                  "unsplash"
+                ]
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -1056,12 +1577,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Another Simple Calculator",
+                "homepage": "https://jimmyhuco.github.io/simple-calculator",
                 "id": 156399599,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2022-02-26T14:30:56Z",
+                "open_issues": 16,
                 "owner": "jimmyhuco",
                 "repo": "simple-calculator",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -1072,12 +1598,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reason-React Memory Game.",
+                "homepage": null,
                 "id": 122234549,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-03-03T13:32:10Z",
+                "open_issues": 0,
                 "owner": "dtasic",
                 "repo": "re-memory",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             },
@@ -1088,12 +1619,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Memory cards game, but in ReasonML and with GIFs ;)",
+                "homepage": "https://liubko.github.io/reason-memory-gifs/",
                 "id": 117458994,
                 "language": "Reason",
+                "license": null,
                 "last_commit": "2022-12-07T19:13:23Z",
+                "open_issues": 16,
                 "owner": "liubko",
                 "repo": "reason-memory-gifs",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
             }
@@ -1107,15 +1643,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:06:46.238Z",
+    "last_updated": "2026-08-29T04:32:53.074Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
+      "homepage": null,
       "id": 70804893,
       "language": null,
+      "license": null,
       "last_commit": "2024-06-21T04:45:22Z",
+      "open_issues": 2,
       "owner": "vramana",
       "repo": "awesome-reasonml",
-      "stars": 1475
+      "stars": 1475,
+      "topics": [
+        "awesome-list",
+        "bucklescript",
+        "reasonml"
+      ]
     },
     "original_repository_sha": "84fd8ce497e9a03e69b89df7f4df2661000280ed",
     "enhanced_repository": "enhansome/enhansome-reasonml",
