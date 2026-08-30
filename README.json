@@ -21,7 +21,7 @@
                 "open_issues": 190,
                 "owner": "reasonml",
                 "repo": "reason",
-                "stars": 10323,
+                "stars": 10322,
                 "topics": [
                   "javascript",
                   "ocaml",
@@ -79,7 +79,7 @@
                 "language": "Reason",
                 "license": "MIT",
                 "last_commit": "2024-11-14T17:12:06Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "melange-re",
                 "repo": "melange-opam-template",
                 "stars": 61,
@@ -605,7 +605,7 @@
                     "open_issues": 109,
                     "owner": "camlworks",
                     "repo": "dream",
-                    "stars": 1877,
+                    "stars": 1878,
                     "topics": [
                       "framework",
                       "graphql",
@@ -838,8 +838,8 @@
                 "id": 227073289,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T16:33:34Z",
-                "open_issues": 145,
+                "last_commit": "2026-08-30T00:08:17Z",
+                "open_issues": 144,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
                 "stars": 909,
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:32:53.074Z",
+    "last_updated": "2026-08-30T01:46:18.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",

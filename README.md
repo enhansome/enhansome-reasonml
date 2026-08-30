@@ -1,8 +1,8 @@
 # Awesome reasonml with stars
 
-### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21
+### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,169 | 🐛 105 | 📅 2026-08-21
 
-A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 list thing. Feel free to improve this list.
+A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,169 | 🐛 105 | 📅 2026-08-21 list thing. Feel free to improve this list.
 
 * [Reason](#reason)
   * [General Resources](#general-resources)
@@ -26,7 +26,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 ### General Resources
 
-* [Reason Github](https://github.com/facebook/reason) ⭐ 10,323 | 🐛 190 | 🌐 OCaml | 📅 2026-08-13
+* [Reason Github](https://github.com/facebook/reason) ⭐ 10,322 | 🐛 190 | 🌐 OCaml | 📅 2026-08-13
 * [Documentation](https://reasonml.org/)
 * [Homepage](https://reasonml.github.io/)
 * [Blog](https://reasonml.github.io/blog/)
@@ -45,7 +45,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 ### Starter Kits
 
 * [create-melange-app](https://github.com/dmmulroy/create-melange-app) ⭐ 139 | 🐛 21 | 🌐 OCaml | 📅 2026-03-12
-* [Melange Project template with opam](https://github.com/melange-re/melange-opam-template) ⭐ 61 | 🐛 1 | 🌐 Reason | 📅 2024-11-14
+* [Melange Project template with opam](https://github.com/melange-re/melange-opam-template) ⭐ 61 | 🐛 2 | 🌐 Reason | 📅 2024-11-14
 * [Melange Project template with esy](https://github.com/melange-re/melange-esy-template) ⭐ 41 | 🐛 1 | 🌐 Reason | 📅 2024-01-21
 * [Reason Starter kit for Advent of Code](https://github.com/ManasJayanth/reason-aoc-starter) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2021-02-06
 * [Example Project](https://reasonml.github.io/docs/en/installation)
@@ -124,7 +124,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 #### Server
 
-* [Dream](https://github.com/aantron/dream) ⭐ 1,877 | 🐛 109 | 🌐 OCaml | 📅 2026-05-23 - Tidy, feature-complete Web framework
+* [Dream](https://github.com/aantron/dream) ⭐ 1,878 | 🐛 109 | 🌐 OCaml | 📅 2026-05-23 - Tidy, feature-complete Web framework
 * [server-reason-react](https://github.com/ml-in-barcelona/server-reason-react) ⭐ 175 | 🐛 6 | 🌐 OCaml | 📅 2026-08-27 - Server render Reason React components with OCaml natively
 * [html\_of\_jsx](https://github.com/davesnx/html_of_jsx) ⭐ 52 | 🐛 0 | 🌐 OCaml | 📅 2026-08-17 - Render HTML with JSX
 
@@ -144,7 +144,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 
-* [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 909 | 🐛 145 | 🌐 OCaml | 📅 2026-08-28 - OCaml Language Server Protocol implementation
+* [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 909 | 🐛 144 | 🌐 OCaml | 📅 2026-08-30 - OCaml Language Server Protocol implementation
 * [vscode-ocaml-platform](https://github.com/ocamllabs/vscode-ocaml-platform) ⭐ 386 | 🐛 62 | 🌐 OCaml | 📅 2026-08-28 - Visual Studio Code extension for ReasonML and OCaml
 
 ***
@@ -199,4 +199,4 @@ Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
