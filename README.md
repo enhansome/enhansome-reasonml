@@ -1,8 +1,8 @@
 # Awesome reasonml with stars
 
-### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,752 | 🐛 105 | 📅 2026-08-21
+### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,058 | 🐛 105 | 📅 2026-08-21
 
-A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,752 | 🐛 105 | 📅 2026-08-21 list thing. Feel free to improve this list.
+A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,058 | 🐛 105 | 📅 2026-08-21 list thing. Feel free to improve this list.
 
 * [Reason](#reason)
   * [General Resources](#general-resources)
@@ -120,7 +120,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 * [atd](https://github.com/ahrefs/atd) ⭐ 352 | 🐛 88 | 🌐 OCaml | 📅 2026-08-05 - Static types for JSON APIs
 * [bs-decode](https://github.com/mlms13/bs-decode) ⭐ 103 | 🐛 15 | 🌐 Reason | 📅 2024-01-22 - Type-safe JSON decoding for ReasonML and OCaml ([documentation site](https://mlms13.github.io/bs-decode/docs/what-and-why))
 * [ocaml-decoders](https://github.com/mattjbray/ocaml-decoders) ⭐ 85 | 🐛 9 | 🌐 OCaml | 📅 2026-01-21 - Elm-inspired decoders for Ocaml
-* [melange-json](https://github.com/melange-community/melange-json) ⭐ 24 | 🐛 20 | 🌐 OCaml | 📅 2026-08-14 - Compositional JSON encode/decode library for Melange
+* [melange-json](https://github.com/melange-community/melange-json) ⭐ 24 | 🐛 20 | 🌐 OCaml | 📅 2026-09-01 - Compositional JSON encode/decode library for Melange
 
 #### Server
 
@@ -199,4 +199,4 @@ Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

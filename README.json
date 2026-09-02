@@ -568,7 +568,7 @@
                     "id": 656713692,
                     "language": "OCaml",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-08-14T18:06:48Z",
+                    "last_commit": "2026-09-01T17:33:23Z",
                     "open_issues": 20,
                     "owner": "melange-community",
                     "repo": "jsonkit",
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T02:04:56.115Z",
+    "last_updated": "2026-09-02T01:27:47.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
