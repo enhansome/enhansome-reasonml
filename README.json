@@ -21,7 +21,7 @@
                 "open_issues": 191,
                 "owner": "reasonml",
                 "repo": "reason",
-                "stars": 10322,
+                "stars": 10321,
                 "topics": [
                   "javascript",
                   "ocaml",
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T01:27:47.329Z",
+    "last_updated": "2026-09-03T01:31:08.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
