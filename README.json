@@ -21,7 +21,7 @@
                 "open_issues": 192,
                 "owner": "reasonml",
                 "repo": "reason",
-                "stars": 10323,
+                "stars": 10324,
                 "topics": [
                   "javascript",
                   "ocaml",
@@ -158,7 +158,7 @@
                 "open_issues": 6,
                 "owner": "chenglou",
                 "repo": "intro-to-reason-compilation",
-                "stars": 270,
+                "stars": 269,
                 "topics": [
                   "bucklescript",
                   "ocaml",
@@ -838,8 +838,8 @@
                 "id": 227073289,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T00:08:03Z",
-                "open_issues": 131,
+                "last_commit": "2026-09-06T22:46:12Z",
+                "open_issues": 128,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
                 "stars": 909,
@@ -859,7 +859,7 @@
                 "id": 225361931,
                 "language": "OCaml",
                 "license": "ISC",
-                "last_commit": "2026-08-30T17:55:55Z",
+                "last_commit": "2026-09-06T12:40:31Z",
                 "open_issues": 62,
                 "owner": "ocamllabs",
                 "repo": "vscode-ocaml-platform",
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T01:21:26.699Z",
+    "last_updated": "2026-09-07T01:19:48.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
@@ -1655,7 +1655,7 @@
       "open_issues": 2,
       "owner": "vramana",
       "repo": "awesome-reasonml",
-      "stars": 1475,
+      "stars": 1474,
       "topics": [
         "awesome-list",
         "bucklescript",

@@ -1,8 +1,8 @@
 # Awesome reasonml with stars
 
-### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,333 | 🐛 106 | 📅 2026-09-02
+### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,688 | 🐛 106 | 📅 2026-09-02
 
-A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,333 | 🐛 106 | 📅 2026-09-02 list thing. Feel free to improve this list.
+A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,688 | 🐛 106 | 📅 2026-09-02 list thing. Feel free to improve this list.
 
 * [Reason](#reason)
   * [General Resources](#general-resources)
@@ -26,7 +26,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 ### General Resources
 
-* [Reason Github](https://github.com/facebook/reason) ⭐ 10,323 | 🐛 192 | 🌐 OCaml | 📅 2026-09-03
+* [Reason Github](https://github.com/facebook/reason) ⭐ 10,324 | 🐛 192 | 🌐 OCaml | 📅 2026-09-03
 * [Documentation](https://reasonml.org/)
 * [Homepage](https://reasonml.github.io/)
 * [Blog](https://reasonml.github.io/blog/)
@@ -52,7 +52,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 ### Tutorials
 
-* [Intro to Reason Compilation](https://github.com/chenglou/intro-to-reason-compilation) ⭐ 270 | 🐛 6 | 🌐 Shell | 📅 2020-05-12
+* [Intro to Reason Compilation](https://github.com/chenglou/intro-to-reason-compilation) ⭐ 269 | 🐛 6 | 🌐 Shell | 📅 2020-05-12
 * [Melange for React Devs](https://react-book.melange.re/)
 * [An Invitation to ReasonML](https://protoship.io/blog/2017/05/10/an-invitation-to-reasonml.html)
 * [Armed with Reason](http://kcsrk.info/reason/arm/2016/05/16/armed-with-reason/) - Target Raspberry PI
@@ -144,8 +144,8 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 
-* [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 909 | 🐛 131 | 🌐 OCaml | 📅 2026-09-06 - OCaml Language Server Protocol implementation
-* [vscode-ocaml-platform](https://github.com/ocamllabs/vscode-ocaml-platform) ⭐ 386 | 🐛 62 | 🌐 OCaml | 📅 2026-08-30 - Visual Studio Code extension for ReasonML and OCaml
+* [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 909 | 🐛 128 | 🌐 OCaml | 📅 2026-09-06 - OCaml Language Server Protocol implementation
+* [vscode-ocaml-platform](https://github.com/ocamllabs/vscode-ocaml-platform) ⭐ 386 | 🐛 62 | 🌐 OCaml | 📅 2026-09-06 - Visual Studio Code extension for ReasonML and OCaml
 
 ***
 
@@ -199,4 +199,4 @@ Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
