@@ -601,11 +601,11 @@
                     "id": 345513448,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T13:01:35Z",
+                    "last_commit": "2026-09-07T06:54:07Z",
                     "open_issues": 111,
                     "owner": "camlworks",
                     "repo": "dream",
-                    "stars": 1881,
+                    "stars": 1882,
                     "topics": [
                       "framework",
                       "graphql",
@@ -763,7 +763,7 @@
                     "id": 715972604,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T10:17:53Z",
+                    "last_commit": "2026-09-07T01:32:29Z",
                     "open_issues": 1,
                     "owner": "ahrefs",
                     "repo": "melange-fest",
@@ -838,7 +838,7 @@
                 "id": 227073289,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T22:46:12Z",
+                "last_commit": "2026-09-07T21:55:26Z",
                 "open_issues": 128,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:19:48.506Z",
+    "last_updated": "2026-09-08T01:28:25.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
@@ -1655,7 +1655,7 @@
       "open_issues": 2,
       "owner": "vramana",
       "repo": "awesome-reasonml",
-      "stars": 1474,
+      "stars": 1473,
       "topics": [
         "awesome-list",
         "bucklescript",
