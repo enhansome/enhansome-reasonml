@@ -21,7 +21,7 @@
                 "open_issues": 192,
                 "owner": "reasonml",
                 "repo": "reason",
-                "stars": 10324,
+                "stars": 10323,
                 "topics": [
                   "javascript",
                   "ocaml",
@@ -568,7 +568,7 @@
                     "id": 656713692,
                     "language": "OCaml",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-09-04T18:08:34Z",
+                    "last_commit": "2026-09-08T21:20:38Z",
                     "open_issues": 19,
                     "owner": "melange-community",
                     "repo": "jsonkit",
@@ -634,7 +634,7 @@
                     "open_issues": 6,
                     "owner": "ml-in-barcelona",
                     "repo": "server-reason-react",
-                    "stars": 175,
+                    "stars": 176,
                     "topics": [
                       "melange",
                       "ocaml",
@@ -838,8 +838,8 @@
                 "id": 227073289,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T21:55:26Z",
-                "open_issues": 128,
+                "last_commit": "2026-09-08T22:18:49Z",
+                "open_issues": 127,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
                 "stars": 909,
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:28:25.458Z",
+    "last_updated": "2026-09-09T01:37:14.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
