@@ -389,7 +389,7 @@
                     "open_issues": 34,
                     "owner": "reasonml",
                     "repo": "reason-react",
-                    "stars": 3263,
+                    "stars": 3262,
                     "topics": [
                       "melange",
                       "react",
@@ -410,8 +410,8 @@
                     "id": 235614466,
                     "language": "OCaml",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-09-17T12:16:57Z",
-                    "open_issues": 32,
+                    "last_commit": "2026-09-19T00:51:44Z",
+                    "open_issues": 38,
                     "owner": "davesnx",
                     "repo": "styled-ppx",
                     "stars": 413,
@@ -523,7 +523,7 @@
                     "open_issues": 15,
                     "owner": "mlms13",
                     "repo": "bs-decode",
-                    "stars": 103,
+                    "stars": 102,
                     "topics": [
                       "bucklescript",
                       "decoding",
@@ -601,8 +601,8 @@
                     "id": 345513448,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-09-07T06:54:07Z",
-                    "open_issues": 112,
+                    "last_commit": "2026-09-18T08:38:35Z",
+                    "open_issues": 111,
                     "owner": "camlworks",
                     "repo": "dream",
                     "stars": 1883,
@@ -859,7 +859,7 @@
                 "id": 225361931,
                 "language": "OCaml",
                 "license": "ISC",
-                "last_commit": "2026-09-17T17:50:08Z",
+                "last_commit": "2026-09-19T01:11:54Z",
                 "open_issues": 63,
                 "owner": "ocamllabs",
                 "repo": "vscode-ocaml-platform",
@@ -1104,7 +1104,7 @@
                 "open_issues": 3,
                 "owner": "rebench",
                 "repo": "rebench.github.io",
-                "stars": 44,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:36:12.009Z",
+    "last_updated": "2026-09-19T01:41:28.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
