@@ -17,11 +17,11 @@
                 "id": 46261404,
                 "language": "OCaml",
                 "license": "MIT",
-                "last_commit": "2026-09-03T10:19:15Z",
-                "open_issues": 193,
+                "last_commit": "2026-09-20T21:26:18Z",
+                "open_issues": 192,
                 "owner": "reasonml",
                 "repo": "reason",
-                "stars": 10321,
+                "stars": 10322,
                 "topics": [
                   "javascript",
                   "ocaml",
@@ -763,7 +763,7 @@
                     "id": 715972604,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-09-14T01:38:28Z",
+                    "last_commit": "2026-09-21T01:38:48Z",
                     "open_issues": 1,
                     "owner": "ahrefs",
                     "repo": "melange-fest",
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T01:43:18.975Z",
+    "last_updated": "2026-09-21T01:44:27.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
