@@ -1,8 +1,8 @@
 # Awesome reasonml with stars
 
-### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,010 | 🐛 107 | 📅 2026-09-02
+### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,524 | 🐛 106 | 📅 2026-09-02
 
-A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,010 | 🐛 107 | 📅 2026-09-02 list thing. Feel free to improve this list.
+A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,524 | 🐛 106 | 📅 2026-09-02 list thing. Feel free to improve this list.
 
 * [Reason](#reason)
   * [General Resources](#general-resources)
@@ -26,7 +26,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 ### General Resources
 
-* [Reason Github](https://github.com/facebook/reason) ⭐ 10,324 | 🐛 192 | 🌐 OCaml | 📅 2026-09-20
+* [Reason Github](https://github.com/facebook/reason) ⭐ 10,323 | 🐛 192 | 🌐 OCaml | 📅 2026-09-20
 * [Documentation](https://reasonml.org/)
 * [Homepage](https://reasonml.github.io/)
 * [Blog](https://reasonml.github.io/blog/)
@@ -111,7 +111,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 #### Web
 
 * [reason-react](https://github.com/reasonml/reason-react) ⭐ 3,262 | 🐛 34 | 🌐 Reason | 📅 2026-06-15 - React.js bindings
-* [styled-ppx](https://github.com/davesnx/styled-ppx) ⭐ 413 | 🐛 35 | 🌐 OCaml | 📅 2026-09-26 - Type-safe styled components for ReScript, Melange and native with type-safe CSS
+* [styled-ppx](https://github.com/davesnx/styled-ppx) ⭐ 413 | 🐛 35 | 🌐 OCaml | 📅 2026-09-27 - Type-safe styled components for ReScript, Melange and native with type-safe CSS
 * [promise](https://github.com/aantron/promise) ⭐ 340 | 🐛 16 | 🌐 Reason | 📅 2023-10-04 - Light and type-safe binding to JS promises
 * [melange-fetch](https://github.com/melange-community/melange-fetch) ⭐ 208 | 🐛 3 | 🌐 OCaml | 📅 2026-06-28 - Fetch bindings for Melange
 
@@ -136,7 +136,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 #### Testing
 
-* [melange-fest](https://github.com/ahrefs/melange-fest) ⭐ 15 | 🐛 1 | 🌐 OCaml | 📅 2026-09-21 - A minimal test framework for Melange using Node test runner
+* [melange-fest](https://github.com/ahrefs/melange-fest) ⭐ 15 | 🐛 1 | 🌐 OCaml | 📅 2026-09-28 - A minimal test framework for Melange using Node test runner
 * [melange-testing-library](https://github.com/melange-community/melange-testing-library) ⭐ 8 | 🐛 3 | 🌐 Reason | 📅 2026-09-03 - Melange bindings for testing-library (dom-testing-library and react-testing-library)
 * [melange-jest](https://github.com/melange-community/melange-jest/) ⭐ 4 | 🐛 5 | 🌐 OCaml | 📅 2026-06-28 - Melange bindings for Jest
 
@@ -144,7 +144,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 
-* [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 910 | 🐛 133 | 🌐 OCaml | 📅 2026-09-27 - OCaml Language Server Protocol implementation
+* [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 910 | 🐛 134 | 🌐 OCaml | 📅 2026-09-27 - OCaml Language Server Protocol implementation
 * [vscode-ocaml-platform](https://github.com/ocamllabs/vscode-ocaml-platform) ⭐ 386 | 🐛 64 | 🌐 OCaml | 📅 2026-09-19 - Visual Studio Code extension for ReasonML and OCaml
 
 ***
@@ -157,7 +157,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 * [ReLayout](https://github.com/jordwalke/ReLayout) ⭐ 389 | 🐛 8 | 🌐 Reason | 📅 2024-03-12 - Standalone CSS Flexbox Implementation in Reason
 * [Mareo](https://github.com/reasonml-community/Mareo) ⭐ 381 | 🐛 2 | 🌐 JavaScript | 📅 2018-04-17 - Online Mario game demo drawn on canvas
 * [ReasonML RealWorld example app #2](https://github.com/jihchi/reason-react-realworld-example-app) ⭐ 193 | 🐛 2 | 🌐 ReScript | 📅 2026-04-25 - Another Medium.com clone written using ReasonReact
-* [Coronate](https://github.com/johnridesabike/coronate) ⭐ 175 | 🐛 11 | 🌐 ReScript | 📅 2026-08-31 - A Swiss-style chess tournament manager for the web and desktop, written with ReasonReact. [(web demo)](https://johnridesa.bike/coronate/)
+* [Coronate](https://github.com/johnridesabike/coronate) ⭐ 175 | 🐛 10 | 🌐 ReScript | 📅 2026-08-31 - A Swiss-style chess tournament manager for the web and desktop, written with ReasonReact. [(web demo)](https://johnridesa.bike/coronate/)
 * [99.re](https://github.com/shrynx/99.re) ⭐ 111 | 🐛 0 | 🌐 OCaml | 📅 2017-11-24 - Solutions to 99 problems implemented in Reason
 * [ReasonML RealWorld example app](https://github.com/gothinkster/reasonml-realworld-example-app) ⭐ 59 | 🐛 1 | 🌐 Reason | 📅 2021-09-06 - Medium.com clone written using ReasonReact
 * [re:bench](https://github.com/rebench/rebench.github.io) ⭐ 43 | 🐛 3 | 🌐 JavaScript | 📅 2018-06-11 - Benchmarking playground built with ReasonReact. A real app in real use.
@@ -199,4 +199,4 @@ Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
