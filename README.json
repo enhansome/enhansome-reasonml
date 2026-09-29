@@ -385,8 +385,8 @@
                     "id": 86212322,
                     "language": "Reason",
                     "license": "MIT",
-                    "last_commit": "2026-06-15T18:44:06Z",
-                    "open_issues": 34,
+                    "last_commit": "2026-09-28T05:17:44Z",
+                    "open_issues": 35,
                     "owner": "reasonml",
                     "repo": "reason-react",
                     "stars": 3262,
@@ -410,7 +410,7 @@
                     "id": 235614466,
                     "language": "OCaml",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-09-27T21:16:22Z",
+                    "last_commit": "2026-09-28T22:00:21Z",
                     "open_issues": 35,
                     "owner": "davesnx",
                     "repo": "styled-ppx",
@@ -839,7 +839,7 @@
                 "language": "OCaml",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-27T00:08:28Z",
-                "open_issues": 134,
+                "open_issues": 135,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
                 "stars": 910,
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T02:00:43.760Z",
+    "last_updated": "2026-09-29T02:48:04.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
