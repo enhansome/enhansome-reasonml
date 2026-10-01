@@ -1,8 +1,8 @@
 # Awesome reasonml with stars
 
-### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,490 | 🐛 106 | 📅 2026-09-02
+### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,906 | 🐛 106 | 📅 2026-09-02
 
-A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,490 | 🐛 106 | 📅 2026-09-02 list thing. Feel free to improve this list.
+A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,906 | 🐛 106 | 📅 2026-09-02 list thing. Feel free to improve this list.
 
 * [Reason](#reason)
   * [General Resources](#general-resources)
@@ -26,7 +26,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 ### General Resources
 
-* [Reason Github](https://github.com/facebook/reason) ⭐ 10,324 | 🐛 192 | 🌐 OCaml | 📅 2026-09-20
+* [Reason Github](https://github.com/facebook/reason) ⭐ 10,323 | 🐛 192 | 🌐 OCaml | 📅 2026-09-20
 * [Documentation](https://reasonml.org/)
 * [Homepage](https://reasonml.github.io/)
 * [Blog](https://reasonml.github.io/blog/)
@@ -111,7 +111,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 #### Web
 
 * [reason-react](https://github.com/reasonml/reason-react) ⭐ 3,263 | 🐛 35 | 🌐 Reason | 📅 2026-09-28 - React.js bindings
-* [styled-ppx](https://github.com/davesnx/styled-ppx) ⭐ 414 | 🐛 35 | 🌐 OCaml | 📅 2026-09-28 - Type-safe styled components for ReScript, Melange and native with type-safe CSS
+* [styled-ppx](https://github.com/davesnx/styled-ppx) ⭐ 414 | 🐛 35 | 🌐 OCaml | 📅 2026-09-30 - Type-safe styled components for ReScript, Melange and native with type-safe CSS
 * [promise](https://github.com/aantron/promise) ⭐ 340 | 🐛 16 | 🌐 Reason | 📅 2023-10-04 - Light and type-safe binding to JS promises
 * [melange-fetch](https://github.com/melange-community/melange-fetch) ⭐ 208 | 🐛 3 | 🌐 OCaml | 📅 2026-06-28 - Fetch bindings for Melange
 
@@ -199,4 +199,4 @@ Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
