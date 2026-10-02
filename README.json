@@ -502,7 +502,7 @@
                     "open_issues": 89,
                     "owner": "ahrefs",
                     "repo": "atd",
-                    "stars": 353,
+                    "stars": 354,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
@@ -859,7 +859,7 @@
                 "id": 225361931,
                 "language": "OCaml",
                 "license": "ISC",
-                "last_commit": "2026-09-19T14:55:25Z",
+                "last_commit": "2026-10-01T16:44:17Z",
                 "open_issues": 64,
                 "owner": "ocamllabs",
                 "repo": "vscode-ocaml-platform",
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:29:58.515Z",
+    "last_updated": "2026-10-02T02:37:10.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
