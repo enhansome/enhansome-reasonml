@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Reason Github",
-              "description": null,
+              "description": "reasonml/reason",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -42,7 +42,7 @@
             {
               "node_type": "item",
               "title": "create-melange-app",
-              "description": null,
+              "description": "melange-community/create-melange-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -69,7 +69,7 @@
             {
               "node_type": "item",
               "title": "Melange Project template with opam",
-              "description": null,
+              "description": "melange-re/melange-opam-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -90,7 +90,7 @@
             {
               "node_type": "item",
               "title": "Melange Project template with esy",
-              "description": null,
+              "description": "melange-re/melange-esy-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -111,7 +111,7 @@
             {
               "node_type": "item",
               "title": "Reason Starter kit for Advent of Code",
-              "description": null,
+              "description": "ManasJayanth/reason-aoc-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -145,7 +145,7 @@
             {
               "node_type": "item",
               "title": "Intro to Reason Compilation",
-              "description": null,
+              "description": "chenglou/intro-to-reason-compilation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -414,7 +414,7 @@
                     "open_issues": 35,
                     "owner": "davesnx",
                     "repo": "styled-ppx",
-                    "stars": 414,
+                    "stars": 415,
                     "topics": [
                       "css",
                       "melange",
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:22:43.377Z",
+    "last_updated": "2026-10-03T05:03:43.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
