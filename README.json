@@ -21,7 +21,7 @@
                 "open_issues": 192,
                 "owner": "reasonml",
                 "repo": "reason",
-                "stars": 10323,
+                "stars": 10324,
                 "topics": [
                   "javascript",
                   "ocaml",
@@ -470,7 +470,7 @@
                     "open_issues": 3,
                     "owner": "melange-community",
                     "repo": "melange-fetch",
-                    "stars": 208,
+                    "stars": 207,
                     "topics": [
                       "bucklescript",
                       "fetch",
@@ -569,7 +569,7 @@
                     "language": "OCaml",
                     "license": "LGPL-3.0",
                     "last_commit": "2026-09-23T13:35:36Z",
-                    "open_issues": 11,
+                    "open_issues": 12,
                     "owner": "melange-community",
                     "repo": "jsonkit",
                     "stars": 25,
@@ -601,8 +601,8 @@
                     "id": 345513448,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T08:38:35Z",
-                    "open_issues": 111,
+                    "last_commit": "2026-10-02T13:56:27Z",
+                    "open_issues": 110,
                     "owner": "camlworks",
                     "repo": "dream",
                     "stars": 1884,
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:37:10.641Z",
+    "last_updated": "2026-10-03T02:22:43.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
