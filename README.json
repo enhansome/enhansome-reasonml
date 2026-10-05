@@ -17,7 +17,7 @@
                 "id": 46261404,
                 "language": "OCaml",
                 "license": "MIT",
-                "last_commit": "2026-09-20T21:26:18Z",
+                "last_commit": "2026-10-04T05:20:29Z",
                 "open_issues": 192,
                 "owner": "reasonml",
                 "repo": "reason",
@@ -763,7 +763,7 @@
                     "id": 715972604,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-09-28T01:39:46Z",
+                    "last_commit": "2026-10-05T01:43:08Z",
                     "open_issues": 1,
                     "owner": "ahrefs",
                     "repo": "melange-fest",
@@ -859,8 +859,8 @@
                 "id": 225361931,
                 "language": "OCaml",
                 "license": "ISC",
-                "last_commit": "2026-10-03T19:29:04Z",
-                "open_issues": 62,
+                "last_commit": "2026-10-04T16:57:29Z",
+                "open_issues": 63,
                 "owner": "ocamllabs",
                 "repo": "vscode-ocaml-platform",
                 "stars": 386,
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:52:59.081Z",
+    "last_updated": "2026-10-05T02:26:15.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
