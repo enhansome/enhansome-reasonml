@@ -21,7 +21,7 @@
                 "open_issues": 192,
                 "owner": "reasonml",
                 "repo": "reason",
-                "stars": 10323,
+                "stars": 10322,
                 "topics": [
                   "javascript",
                   "ocaml",
@@ -55,7 +55,7 @@
                 "open_issues": 21,
                 "owner": "melange-community",
                 "repo": "create-melange-app",
-                "stars": 139,
+                "stars": 138,
                 "topics": [
                   "functional-programming",
                   "javascript",
@@ -601,11 +601,11 @@
                     "id": 345513448,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T12:48:38Z",
-                    "open_issues": 108,
+                    "last_commit": "2026-10-06T15:25:51Z",
+                    "open_issues": 109,
                     "owner": "camlworks",
                     "repo": "dream",
-                    "stars": 1884,
+                    "stars": 1885,
                     "topics": [
                       "framework",
                       "graphql",
@@ -657,7 +657,7 @@
                     "id": 714464957,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-09-17T11:17:40Z",
+                    "last_commit": "2026-10-06T15:45:57Z",
                     "open_issues": 0,
                     "owner": "davesnx",
                     "repo": "html_of_jsx",
@@ -859,8 +859,8 @@
                 "id": 225361931,
                 "language": "OCaml",
                 "license": "ISC",
-                "last_commit": "2026-10-05T14:38:03Z",
-                "open_issues": 63,
+                "last_commit": "2026-10-06T17:37:05Z",
+                "open_issues": 61,
                 "owner": "ocamllabs",
                 "repo": "vscode-ocaml-platform",
                 "stars": 386,
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:27:07.949Z",
+    "last_updated": "2026-10-07T02:43:52.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
