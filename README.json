@@ -605,7 +605,7 @@
                     "open_issues": 108,
                     "owner": "camlworks",
                     "repo": "dream",
-                    "stars": 1888,
+                    "stars": 1887,
                     "topics": [
                       "framework",
                       "graphql",
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T03:08:57.098Z",
+    "last_updated": "2026-10-10T02:48:17.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
