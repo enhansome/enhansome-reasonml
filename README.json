@@ -499,7 +499,7 @@
                     "language": "OCaml",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-05T05:53:10Z",
-                    "open_issues": 89,
+                    "open_issues": 90,
                     "owner": "ahrefs",
                     "repo": "atd",
                     "stars": 354,
@@ -605,7 +605,7 @@
                     "open_issues": 108,
                     "owner": "camlworks",
                     "repo": "dream",
-                    "stars": 1887,
+                    "stars": 1886,
                     "topics": [
                       "framework",
                       "graphql",
@@ -838,11 +838,11 @@
                 "id": 227073289,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-04T00:51:57Z",
+                "last_commit": "2026-10-11T00:08:59Z",
                 "open_issues": 134,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
-                "stars": 910,
+                "stars": 911,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
@@ -1028,7 +1028,7 @@
                 "open_issues": 10,
                 "owner": "johnridesabike",
                 "repo": "coronate",
-                "stars": 175,
+                "stars": 176,
                 "topics": [
                   "chess",
                   "react",
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:48:17.296Z",
+    "last_updated": "2026-10-11T02:15:32.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
