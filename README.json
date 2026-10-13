@@ -21,7 +21,7 @@
                 "open_issues": 192,
                 "owner": "reasonml",
                 "repo": "reason",
-                "stars": 10322,
+                "stars": 10321,
                 "topics": [
                   "javascript",
                   "ocaml",
@@ -219,7 +219,7 @@
                 "open_issues": 1,
                 "owner": "stereobooster",
                 "repo": "type-o-rama",
-                "stars": 247,
+                "stars": 246,
                 "topics": [
                   "closure-compiler",
                   "elm",
@@ -389,7 +389,7 @@
                     "open_issues": 35,
                     "owner": "reasonml",
                     "repo": "reason-react",
-                    "stars": 3263,
+                    "stars": 3262,
                     "topics": [
                       "melange",
                       "react",
@@ -445,7 +445,7 @@
                     "open_issues": 16,
                     "owner": "aantron",
                     "repo": "promise",
-                    "stars": 340,
+                    "stars": 339,
                     "topics": [
                       "async",
                       "promises",
@@ -601,8 +601,8 @@
                     "id": 345513448,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-10-07T20:47:41Z",
-                    "open_issues": 108,
+                    "last_commit": "2026-10-12T19:42:16Z",
+                    "open_issues": 104,
                     "owner": "camlworks",
                     "repo": "dream",
                     "stars": 1887,
@@ -838,8 +838,8 @@
                 "id": 227073289,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-11T00:08:59Z",
-                "open_issues": 134,
+                "last_commit": "2026-10-12T14:37:21Z",
+                "open_issues": 133,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
                 "stars": 911,
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:40:54.301Z",
+    "last_updated": "2026-10-13T03:56:41.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
