@@ -21,7 +21,7 @@
                 "open_issues": 192,
                 "owner": "reasonml",
                 "repo": "reason",
-                "stars": 10325,
+                "stars": 10324,
                 "topics": [
                   "javascript",
                   "ocaml",
@@ -410,8 +410,8 @@
                     "id": 235614466,
                     "language": "OCaml",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-10-13T14:59:54Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-10-16T19:33:38Z",
+                    "open_issues": 29,
                     "owner": "davesnx",
                     "repo": "styled-ppx",
                     "stars": 415,
@@ -601,8 +601,8 @@
                     "id": 345513448,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T13:42:45Z",
-                    "open_issues": 97,
+                    "last_commit": "2026-10-16T13:10:04Z",
+                    "open_issues": 96,
                     "owner": "camlworks",
                     "repo": "dream",
                     "stars": 1888,
@@ -630,7 +630,7 @@
                     "id": 534182334,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T21:12:50Z",
+                    "last_commit": "2026-10-16T15:10:54Z",
                     "open_issues": 9,
                     "owner": "ml-in-barcelona",
                     "repo": "server-reason-react",
@@ -842,7 +842,7 @@
                 "open_issues": 133,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
-                "stars": 912,
+                "stars": 907,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
@@ -863,7 +863,7 @@
                 "open_issues": 61,
                 "owner": "ocamllabs",
                 "repo": "vscode-ocaml-platform",
-                "stars": 386,
+                "stars": 385,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T01:43:12.722Z",
+    "last_updated": "2026-10-17T01:36:20.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
