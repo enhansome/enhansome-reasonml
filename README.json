@@ -21,7 +21,7 @@
                 "open_issues": 192,
                 "owner": "reasonml",
                 "repo": "reason",
-                "stars": 10324,
+                "stars": 10325,
                 "topics": [
                   "javascript",
                   "ocaml",
@@ -410,8 +410,8 @@
                     "id": 235614466,
                     "language": "OCaml",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-10-16T19:33:38Z",
-                    "open_issues": 29,
+                    "last_commit": "2026-10-17T20:29:14Z",
+                    "open_issues": 31,
                     "owner": "davesnx",
                     "repo": "styled-ppx",
                     "stars": 415,
@@ -605,7 +605,7 @@
                     "open_issues": 96,
                     "owner": "camlworks",
                     "repo": "dream",
-                    "stars": 1888,
+                    "stars": 1890,
                     "topics": [
                       "framework",
                       "graphql",
@@ -630,7 +630,7 @@
                     "id": 534182334,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T15:10:54Z",
+                    "last_commit": "2026-10-17T18:57:24Z",
                     "open_issues": 9,
                     "owner": "ml-in-barcelona",
                     "repo": "server-reason-react",
@@ -838,11 +838,11 @@
                 "id": 227073289,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T14:37:21Z",
+                "last_commit": "2026-10-18T00:07:30Z",
                 "open_issues": 133,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
-                "stars": 907,
+                "stars": 908,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T01:36:20.504Z",
+    "last_updated": "2026-10-18T01:34:37.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
