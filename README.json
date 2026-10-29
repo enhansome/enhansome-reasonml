@@ -21,7 +21,7 @@
                 "open_issues": 192,
                 "owner": "reasonml",
                 "repo": "reason",
-                "stars": 10330,
+                "stars": 10332,
                 "topics": [
                   "javascript",
                   "ocaml",
@@ -410,8 +410,8 @@
                     "id": 235614466,
                     "language": "OCaml",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-10-22T15:31:17Z",
-                    "open_issues": 31,
+                    "last_commit": "2026-10-28T22:00:45Z",
+                    "open_issues": 30,
                     "owner": "davesnx",
                     "repo": "styled-ppx",
                     "stars": 415,
@@ -605,7 +605,7 @@
                     "open_issues": 94,
                     "owner": "camlworks",
                     "repo": "dream",
-                    "stars": 1897,
+                    "stars": 1898,
                     "topics": [
                       "framework",
                       "graphql",
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T02:36:38.602Z",
+    "last_updated": "2026-10-29T02:55:58.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
