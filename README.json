@@ -385,8 +385,8 @@
                     "id": 86212322,
                     "language": "Reason",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T06:49:22Z",
-                    "open_issues": 37,
+                    "last_commit": "2026-11-01T19:40:35Z",
+                    "open_issues": 29,
                     "owner": "reasonml",
                     "repo": "reason-react",
                     "stars": 3264,
@@ -605,7 +605,7 @@
                     "open_issues": 94,
                     "owner": "camlworks",
                     "repo": "dream",
-                    "stars": 1898,
+                    "stars": 1899,
                     "topics": [
                       "framework",
                       "graphql",
@@ -763,7 +763,7 @@
                     "id": 715972604,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-10-26T01:32:29Z",
+                    "last_commit": "2026-11-02T01:18:53Z",
                     "open_issues": 1,
                     "owner": "ahrefs",
                     "repo": "melange-fest",
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:39:46.110Z",
+    "last_updated": "2026-11-02T02:47:22.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
