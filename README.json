@@ -21,7 +21,7 @@
                 "open_issues": 192,
                 "owner": "reasonml",
                 "repo": "reason",
-                "stars": 10337,
+                "stars": 10339,
                 "topics": [
                   "javascript",
                   "ocaml",
@@ -385,7 +385,7 @@
                     "id": 86212322,
                     "language": "Reason",
                     "license": "MIT",
-                    "last_commit": "2026-11-03T07:32:55Z",
+                    "last_commit": "2026-11-04T06:56:45Z",
                     "open_issues": 29,
                     "owner": "reasonml",
                     "repo": "reason-react",
@@ -568,7 +568,7 @@
                     "id": 656713692,
                     "language": "OCaml",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-11-03T19:36:24Z",
+                    "last_commit": "2026-11-04T20:31:19Z",
                     "open_issues": 12,
                     "owner": "melange-community",
                     "repo": "jsonkit",
@@ -602,7 +602,7 @@
                     "language": "OCaml",
                     "license": "MIT",
                     "last_commit": "2026-11-02T14:25:57Z",
-                    "open_issues": 91,
+                    "open_issues": 89,
                     "owner": "camlworks",
                     "repo": "dream",
                     "stars": 1900,
@@ -630,7 +630,7 @@
                     "id": 534182334,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T13:57:26Z",
+                    "last_commit": "2026-11-04T13:45:17Z",
                     "open_issues": 8,
                     "owner": "ml-in-barcelona",
                     "repo": "server-reason-react",
@@ -838,11 +838,11 @@
                 "id": 227073289,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T15:42:53Z",
-                "open_issues": 134,
+                "last_commit": "2026-11-04T15:49:45Z",
+                "open_issues": 133,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
-                "stars": 913,
+                "stars": 914,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T03:21:44.897Z",
+    "last_updated": "2026-11-05T03:46:28.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
