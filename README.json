@@ -568,8 +568,8 @@
                     "id": 656713692,
                     "language": "OCaml",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-11-10T23:41:34Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-11-11T16:08:32Z",
+                    "open_issues": 12,
                     "owner": "melange-community",
                     "repo": "jsonkit",
                     "stars": 27,
@@ -601,8 +601,8 @@
                     "id": 345513448,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-11-10T14:16:03Z",
-                    "open_issues": 84,
+                    "last_commit": "2026-11-11T15:09:39Z",
+                    "open_issues": 82,
                     "owner": "camlworks",
                     "repo": "dream",
                     "stars": 1900,
@@ -630,8 +630,8 @@
                     "id": 534182334,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-11-10T23:03:16Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-11-12T01:37:31Z",
+                    "open_issues": 11,
                     "owner": "ml-in-barcelona",
                     "repo": "server-reason-react",
                     "stars": 180,
@@ -767,7 +767,7 @@
                     "open_issues": 1,
                     "owner": "ahrefs",
                     "repo": "melange-fest",
-                    "stars": 15,
+                    "stars": 16,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:06:46.238Z"
@@ -842,7 +842,7 @@
                 "open_issues": 133,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
-                "stars": 917,
+                "stars": 918,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T03:09:29.139Z",
+    "last_updated": "2026-11-12T04:22:49.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
