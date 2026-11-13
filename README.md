@@ -1,8 +1,8 @@
 # Awesome reasonml with stars
 
-### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,455 | 🐛 103 | 📅 2026-09-02
+### **Awesome ReasonML** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,023 | 🐛 103 | 📅 2026-09-02
 
-A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,455 | 🐛 103 | 📅 2026-09-02 list thing. Feel free to improve this list.
+A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,023 | 🐛 103 | 📅 2026-09-02 list thing. Feel free to improve this list.
 
 * [Reason](#reason)
   * [General Resources](#general-resources)
@@ -110,7 +110,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 #### Web
 
-* [reason-react](https://github.com/reasonml/reason-react) ⭐ 3,263 | 🐛 31 | 🌐 Reason | 📅 2026-11-09 - React.js bindings
+* [reason-react](https://github.com/reasonml/reason-react) ⭐ 3,262 | 🐛 31 | 🌐 Reason | 📅 2026-11-09 - React.js bindings
 * [styled-ppx](https://github.com/davesnx/styled-ppx) ⭐ 417 | 🐛 31 | 🌐 OCaml | 📅 2026-11-07 - Type-safe styled components for ReScript, Melange and native with type-safe CSS
 * [promise](https://github.com/aantron/promise) ⭐ 339 | 🐛 16 | 🌐 Reason | 📅 2023-10-04 - Light and type-safe binding to JS promises
 * [melange-fetch](https://github.com/melange-community/melange-fetch) ⭐ 207 | 🐛 3 | 🌐 OCaml | 📅 2026-06-28 - Fetch bindings for Melange
@@ -124,13 +124,13 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 #### Server
 
-* [Dream](https://github.com/aantron/dream) ⭐ 1,900 | 🐛 82 | 🌐 OCaml | 📅 2026-11-11 - Tidy, feature-complete Web framework
+* [Dream](https://github.com/aantron/dream) ⭐ 1,900 | 🐛 84 | 🌐 OCaml | 📅 2026-11-11 - Tidy, feature-complete Web framework
 * [server-reason-react](https://github.com/ml-in-barcelona/server-reason-react) ⭐ 180 | 🐛 11 | 🌐 OCaml | 📅 2026-11-12 - Server render Reason React components with OCaml natively
 * [html\_of\_jsx](https://github.com/davesnx/html_of_jsx) ⭐ 53 | 🐛 0 | 🌐 OCaml | 📅 2026-11-10 - Render HTML with JSX
 
 #### GraphQL
 
-* [graphql\_ppx](https://github.com/teamwalnut/graphql-ppx) ⭐ 262 | 🐛 40 | 🌐 OCaml | 📅 2026-02-10 - GraphQL PPX rewriter for Bucklescript/ReasonML written in ReasonML.
+* [graphql\_ppx](https://github.com/teamwalnut/graphql-ppx) ⭐ 261 | 🐛 40 | 🌐 OCaml | 📅 2026-11-12 - GraphQL PPX rewriter for Bucklescript/ReasonML written in ReasonML.
 * [reasonql](https://github.com/sainthkh/reasonql) ⭐ 96 | 🐛 10 | 🌐 JavaScript | 📅 2022-12-22 - Type-safe and simple GraphQL client for ReasonML
 * [melange-relay](https://github.com/anmonteiro/melange-relay) ⭐ 5 | 🐛 0 | 🌐 OCaml | 📅 2026-01-28 - Use Relay with ReasonML
 
@@ -144,7 +144,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 
-* [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 918 | 🐛 133 | 🌐 OCaml | 📅 2026-11-08 - OCaml Language Server Protocol implementation
+* [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 919 | 🐛 133 | 🌐 OCaml | 📅 2026-11-08 - OCaml Language Server Protocol implementation
 * [vscode-ocaml-platform](https://github.com/ocamllabs/vscode-ocaml-platform) ⭐ 385 | 🐛 61 | 🌐 OCaml | 📅 2026-11-09 - Visual Studio Code extension for ReasonML and OCaml
 
 ***
@@ -152,7 +152,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 ### Example Apps
 
 * [ReasonReact example](https://github.com/reasonml-community/reason-react-example) ⚠️ Archived - ReasonReact examples
-* [ReasonReact Hacker News](https://github.com/reasonml-community/reason-react-hacker-news) ⭐ 594 | 🐛 23 | 🌐 Reason | 📅 2023-01-07 - Hacker News written in Reason
+* [ReasonReact Hacker News](https://github.com/reasonml-community/reason-react-hacker-news) ⭐ 593 | 🐛 23 | 🌐 Reason | 📅 2023-01-07 - Hacker News written in Reason
 * [Gravitron](https://github.com/jaredly/gravitron) ⭐ 489 | 🐛 9 | 🌐 OCaml | 📅 2023-10-20 - A game about gravity on iOS/Android/Browser
 * [ReLayout](https://github.com/jordwalke/ReLayout) ⭐ 389 | 🐛 8 | 🌐 Reason | 📅 2024-03-12 - Standalone CSS Flexbox Implementation in Reason
 * [Mareo](https://github.com/reasonml-community/Mareo) ⭐ 381 | 🐛 2 | 🌐 JavaScript | 📅 2018-04-17 - Online Mario game demo drawn on canvas
@@ -199,4 +199,4 @@ Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

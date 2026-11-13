@@ -389,7 +389,7 @@
                     "open_issues": 31,
                     "owner": "reasonml",
                     "repo": "reason-react",
-                    "stars": 3263,
+                    "stars": 3262,
                     "topics": [
                       "melange",
                       "react",
@@ -602,7 +602,7 @@
                     "language": "OCaml",
                     "license": "MIT",
                     "last_commit": "2026-11-11T15:09:39Z",
-                    "open_issues": 82,
+                    "open_issues": 84,
                     "owner": "camlworks",
                     "repo": "dream",
                     "stars": 1900,
@@ -685,11 +685,11 @@
                     "id": 179522522,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-02-10T15:15:40Z",
+                    "last_commit": "2026-11-12T21:37:53Z",
                     "open_issues": 40,
                     "owner": "teamwalnut",
                     "repo": "graphql-ppx",
-                    "stars": 262,
+                    "stars": 261,
                     "topics": [
                       "bucklescript",
                       "graphql",
@@ -842,7 +842,7 @@
                 "open_issues": 133,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
-                "stars": 918,
+                "stars": 919,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:06:46.238Z"
@@ -912,7 +912,7 @@
                 "open_issues": 23,
                 "owner": "reasonml-community",
                 "repo": "reason-react-hacker-news",
-                "stars": 594,
+                "stars": 593,
                 "topics": [
                   "reason",
                   "reason-react",
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T04:22:49.045Z",
+    "last_updated": "2026-11-13T03:39:03.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
