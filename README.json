@@ -602,7 +602,7 @@
                     "language": "OCaml",
                     "license": "MIT",
                     "last_commit": "2026-11-23T14:37:35Z",
-                    "open_issues": 86,
+                    "open_issues": 87,
                     "owner": "camlworks",
                     "repo": "dream",
                     "stars": 1899,
@@ -630,8 +630,8 @@
                     "id": 534182334,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2026-11-25T19:52:11Z",
-                    "open_issues": 44,
+                    "last_commit": "2026-11-26T14:09:13Z",
+                    "open_issues": 45,
                     "owner": "ml-in-barcelona",
                     "repo": "server-reason-react",
                     "stars": 180,
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T05:30:52.701Z",
+    "last_updated": "2026-11-27T05:25:44.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
